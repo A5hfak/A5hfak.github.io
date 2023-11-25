@@ -1,8 +1,3 @@
----
-# Mr. Green Jekyll Theme (https://github.com/MrGreensWorkshop/MrGreen-JekyllTheme)
-# Copyright (c) 2022 Mr. Green's Workshop https://www.MrGreensWorkshop.com
-# Licensed under MIT
-
 layout: default
 # main page (index.html)
 ---
@@ -10,10 +5,10 @@ layout: default
 
 {%- if page.img %}
   {%- if site.data.conf.others.home.header_img_with_img_tag == true -%}
-    {%- capture home_img_tag -%} <img src="{{ /assets/images/home_cover.jpg }}" /> {%- endcapture -%}
+    {%- capture home_img_tag -%} <img src="{{ page.img }}" /> {%- endcapture -%}
     {%- capture home_img_background_style -%} style="height: unset;" {%- endcapture -%}
   {% else %}
-    {%- capture home_img_background_style -%} style="background-image:url('/assets/images/home_cover.jpg');" {%- endcapture -%}
+    {%- capture home_img_background_style -%} style="background-image:url('{{ page.img }}');" {%- endcapture -%}
   {%- endif -%}
 {%- endif -%}
 
