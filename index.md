@@ -51,11 +51,11 @@ I am excited about opportunities to contribute my skills and expertise to a dyna
 ## Education
 - **BSc in Electrical and Electronic Engineering**
   - *BRAC University, Bangladesh*
-  - *Website: [BRAC University]([https://www.bracu.ac.bd/])* 
+  - *Website: [BRAC University](https://www.bracu.ac.bd/)* 
 
 ## Professional Experience
 - **Embedded Systems Engineer**
   - *Vertical Innovations LTD.*, Dhaka, Bangladesh
-  - *Website: [Vertical Innovations LTD.]([https://www.vertical-innovations.com/])* 
+  - *Website: [Vertical Innovations LTD.](https://www.vertical-innovations.com/)* 
 
 ---
