@@ -1,6 +1,6 @@
 # Hello! Welcome to my Portfolio page
 
-![Home Image](/assets/img/home/home-heading.jpg)
+#![Home Image](/assets/img/home/home-heading.jpg)
 
 ## Objective
 
