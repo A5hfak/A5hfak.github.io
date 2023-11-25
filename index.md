@@ -1,12 +1,3 @@
----
-layout: home
-
-lng_pair: id_home
-
-img: ":home-heading.jpg"
-
----
-
 # Hello! Welcome to my Portfolio page
 
 ![Home Image](/assets/img/home/home-heading.jpg)
@@ -20,13 +11,9 @@ I help companies streamline their processes, optimize performance, and enhance f
 I am excited about opportunities to contribute my skills and expertise to a dynamic team. I always seek new challenges to enhance my knowledge of emerging technologies further. I am eager to collaborate with like-minded professionals to drive innovation and create transformative solutions.
 
 
-### [Embedded Systems Engineer]
+### Embedded Systems Engineer
 
-[Vertical Innovations LTD.]
-
-[Short bio or description]
-
-### [Team Member 2 Name]
+Vertical Innovations LTD.
 
 ## Contact Me
 
