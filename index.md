@@ -37,9 +37,9 @@ img: ":home-heading.jpg"
 #published: false
 ---
 
-## Welcome to my portfolio page.
+# Welcome to my portfolio page.
 
-# Objective
+## Objective
 
 Proactive Embedded System Engineer with 1+ year experience in the startup ecosystem. I excel at driving innovation and delivering impactful solutions in embedded systems. 
 
@@ -48,15 +48,15 @@ I help companies streamline their processes, optimize performance, and enhance f
 I am excited about opportunities to contribute my skills and expertise to a dynamic team. I always seek new challenges to enhance my knowledge of emerging technologies further. I am eager to collaborate with like-minded professionals to drive innovation and create transformative solutions.
 
 
-### Education
+## Education
 
 - **BSc in Electrical and Electronic Engineering**
   - *BRAC University, Bangladesh*
   - *Website: [BRAC University]([https://www.bracu.ac.bd/])* 
 ## Professional Experience
 
-### Embedded Systems Engineer
-- Vertical Innovations LTD., Dhaka, Bangladesh*
-- *Website: [Vertical Innovations LTD.]([https://www.vertical-innovations.com/])* 
-- *Started: [07 2022]* <
+#### Embedded Systems Engineer
+- **Vertical Innovations LTD.,** Dhaka, Bangladesh
+  - *Website: [Vertical Innovations LTD.]([https://www.vertical-innovations.com/])* 
+  - *Started: [07 2022]*
 ---
