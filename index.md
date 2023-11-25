@@ -57,5 +57,5 @@ I am excited about opportunities to contribute my skills and expertise to a dyna
 - **Embedded Systems Engineer**
   - *Vertical Innovations LTD.*, Dhaka, Bangladesh
   - *Website: [Vertical Innovations LTD.]([https://www.vertical-innovations.com/])* 
-  - *Started: [07 2022]*
+
 ---
