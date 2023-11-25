@@ -1,8 +1,4 @@
 ---
-# Mr. Green Jekyll Theme (https://github.com/MrGreensWorkshop/MrGreen-JekyllTheme)
-# Copyright (c) 2022 Mr. Green's Workshop https://www.MrGreensWorkshop.com
-# Licensed under MIT
-
 layout: default
 # main page (index.html)
 ---
@@ -39,24 +35,3 @@ layout: default
   </div>
 </div>
 
-{%- if lng_pages.size > 0 and site.data.conf.others.home.new_posts %}
-<div class="multipurpose-container new-posts-container">
-  <h1>{{ site.data.lang[lng].home.new_posts_title }}</h1>
-  <ul class="new-posts">
-  {%- for _post in lng_pages limit: site.data.conf.others.home.new_posts_count_limit -%}
-    <li>
-      {%- assign page_title = _post.title -%}
-      {%- include util/auto-content-post-title-rename.liquid title = page_title -%}
-      {%- include multi_lng/get-localized-long-date-format.liquid date = _post.date -%}
-      <a href="{{ site.baseurl }}{{ _post.url }}">{{ page_title }}
-        <span>{{ _post.date | date: out_date_format }}</span>
-      </a>
-    </li>
-  {% endfor -%}
-    <li>
-      {%- include multi_lng/get-page-by-layout.liquid layout = 'archives' -%}
-      <a href="{{ site.baseurl }}{{ layout_page_obj.url }}">{{ site.data.lang[lng].home.new_posts_show_more_button }}</a>
-    </li>
-  </ul>
-</div>
-{% endif -%}
