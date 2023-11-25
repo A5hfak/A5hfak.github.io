@@ -2,13 +2,13 @@
 # Owner's Personal Information
 ###########################################################
 # This is your brand name
-brand: "Ta marque"
+brand: "Md Ashfak Haider Nehal"
 
 # text below the brand name
 brand_sub_text: "$site_sample"
 
 # used for seo meta post author (if it's not defined in post)
-name: "Votre nom"
+name: "Md Ashfak Haider Nehal"
 
 # home page top header texts
 home:
@@ -42,15 +42,16 @@ creative_commons:
 # seo meta this is needed for each language
 # If meta_description is not defined in front matter, it's created from (post / page) content,
 # if it has no content, this will be used for page description. It is also used in manifest.json
-meta_common_description: "Votre méta description."
+meta_common_description: "Md Ashfak Haider Nehal."
 
 # contact options (side nav bottom and about page)
 # the order of the items will be shown as here.
 # comment to remove any contact item
 contacts:
-  #- github: ""
-  #- email: ""
-  #- linkedin: ""
+  - github: "https://github.com/A5hfak"
+  - email: "ashfaknehal@gmail.com"
+  - linkedin: "https://www.linkedin.com/in/ashfak-haider/"
+  - scholar: "https://scholar.google.com/citations?user=bNnxTZMAAAAJ&hl=en"
   #- twitter: ""
   #- mastodon: ""
   #- instagram: ""
