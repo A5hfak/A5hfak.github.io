@@ -1,7 +1,5 @@
 # Hello! Welcome to my Portfolio page
 
-#![Home Image](/assets/img/home/home-heading.jpg)
-
 ## Objective
 
 Proactive Embedded System Engineer with 1+ year experience in the startup ecosystem. I excel at driving innovation and delivering impactful solutions in embedded systems. 
