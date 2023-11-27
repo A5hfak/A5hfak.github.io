@@ -112,7 +112,7 @@ post-list:
 # for home layout
 home:
   title: 
-  button_name: About
+  button_name: Home
 
 # for archives layout
 archives:
