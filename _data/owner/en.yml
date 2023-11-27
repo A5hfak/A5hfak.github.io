@@ -17,7 +17,7 @@ about:
 
 # If you don't want to add copyright year, comment or leave it blank.
 # the year the claimed copyright for the work was first asserted.
-copyright_start_year: "2022"
+copyright_start_year: "2023"
 
 # make sure creative_commons.enable is true in _data/conf/main.yml file
 creative_commons:
@@ -42,9 +42,9 @@ meta_common_description: "Md Ashfak Haider Nehal."
 # The order of the items will be shown here.
 # comment to remove any contact item
 contacts:
-  - github: "https://github.com/A5hfak"
+  - github: "A5hfak"
   - email: "ashfaknehal@gmail.com"
-  - linkedin: "https://www.linkedin.com/in/ashfak-haider/"
+  - linkedin: "ashfak-haider/"
   - scholar: "https://scholar.google.com/citations?user=bNnxTZMAAAAJ&hl=en"
   #- mastodon: ""
   #- instagram: ""
