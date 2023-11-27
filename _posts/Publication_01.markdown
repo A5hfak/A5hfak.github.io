@@ -37,7 +37,7 @@ date: 2023-03-08
 # exclude from search engines
 #search_engine_exclude: true
 # to disable this page, simply set published: false or delete this file
-#published: true
+#published: false
 ---
 
 # 2022 7th International Conference on Robotics and Automation Engineering (ICRAE)
