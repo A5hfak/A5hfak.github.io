@@ -1,7 +1,6 @@
 ---
-Layout: post
 # multilingual page pair id, this must pair with translations of this page. (This name must be unique)
-lng_pair: publication_1
+lng_pair: Publication_01
 title: COVID-19 Automatic Indoor Safety Control through Mask, Temperature and Distance Monitoring
 
 post specific: 1
