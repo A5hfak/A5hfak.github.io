@@ -13,7 +13,7 @@ tags: [Temperature measurement, Temperature sensors, COVID-19, Machine learning 
 # thumbnail image for post
 img: "/assets/img/posts/post1.jpg"
 # disable comments on this page
-comments_disable: true
+comments_disable: false
 
 # publish date
 date: 2023-03-08 
@@ -36,7 +36,7 @@ date: 2023-03-08
 # exclude from search engines
 #search_engine_exclude: true
 # to disable this page, simply set published: false or delete this file
-#published: false
+#published: true
 ---
 
 # 2022 7th International Conference on Robotics and Automation Engineering (ICRAE)
