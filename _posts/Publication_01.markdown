@@ -3,7 +3,7 @@
 lng_pair: publication_1
 title: COVID-19 Automatic Indoor Safety Control through Mask, Temperature and Distance Monitoring
 
-# post specific
+post specific: 1
 # if not specified, .name will be used from _data/owner/[language].yml
 author: "MAH Nehal, MT Fuad, ABS Jim, T Islam, A Malik, AKMAM Azad"
 # multiple category is not supported
