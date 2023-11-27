@@ -1,9 +1,9 @@
 {%- comment -%}
   This Liquid file is used to rename post titles automatically.
-{%- endcomment -%}
 
 {%- assign current_lng = lng -%}
 {%- if lng == nil -%} {%- assign current_lng = get_lng -%} {%- endif -%}
 
 {%- assign post_number = include.counter | plus: 1 | prepend: "0" | slice: -2 -%}
 {%- assign page_title = "Publication_" | append: post_number -%}
+{%- endcomment -%}
