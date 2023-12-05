@@ -37,7 +37,8 @@ img: ":home-heading.jpg"
 #published: false
 ---
 
-# Welcome to my portfolio page. (Site under development ![](https://github.com/A5hfak/A5hfak.github.io/tree/main/assets/icons/screwdriver-wrench-solid.svg))
+# Welcome to my portfolio page. (Site under development) 
+![](https://github.com/A5hfak/A5hfak.github.io/tree/main/assets/icons/screwdriver-wrench-solid.svg)
 
 ## Objective
 
