@@ -41,7 +41,7 @@ img: ":home-heading.jpg"
 
 ## Site Under Development 
 ![](/assets/icons/construction.svg)
-<data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIGNsYXNzPSJsdWNpZGUgbHVjaWRlLWNvbnN0cnVjdGlvbiI+PHJlY3QgeD0iMiIgeT0iNiIgd2lkdGg9IjIwIiBoZWlnaHQ9IjgiIHJ4PSIxIi8+PHBhdGggZD0iTTE3IDE0djciLz48cGF0aCBkPSJNNyAxNHY3Ii8+PHBhdGggZD0iTTE3IDN2MyIvPjxwYXRoIGQ9Ik03IDN2MyIvPjxwYXRoIGQ9Ik0xMCAxNCAyLjMgNi4zIi8+PHBhdGggZD0ibTE0IDYgNy43IDcuNyIvPjxwYXRoIGQ9Im04IDYgOCA4Ii8+PC9zdmc+>
+
 ### Objective
 
 Proactive Embedded System Engineer with 1+ year experience in the startup ecosystem. I excel at driving innovation and delivering impactful solutions in embedded systems. 
