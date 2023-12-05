@@ -39,7 +39,8 @@ img: ":home-heading.jpg"
 
 # Welcome to my portfolio page. 
 
-<h1 style="font-size: 2em;"> Site Under Development</h1> ![](/assets/icons/construction.svg)
+<h1 style="font-size: 2em;">Site Under Development</h1>
+![Construction Icon](/assets/icons/construction.svg)
 
 Site Under Development ![](/assets/icons/construction.svg)
 
