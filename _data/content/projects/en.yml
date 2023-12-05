@@ -32,31 +32,31 @@ list:
     date: "2022-10-15"
     post: |
 
-        Printed Circuit Board (PCB) Design for a 12V to 5V Switched-Mode Power Supply (SMPS) Converter.
+      Printed Circuit Board (PCB) Design for a 12V to 5V Switched-Mode Power Supply (SMPS) Converter.
         
-        ***
+      ***
         
-        #### Components
+      #### Components
         
-        |       Part Name     |      Description     |     Quantity      |
-        | ------------------- | :------------------: | ----------------: |
-        | 22uF                |  Ceramic Capacitor   |                 2 |
-        | 47uF                |  Ceramic Capacitor   |                 2 |
-        | 0.01uF              |  Ceramic Capacitor   |                 1 |
-        | 8.2nF               |  Ceramic Capacitor   |                 1 |
-        | 1nF                 |  Ceramic Capacitor   |                 1 |
-        | 10pF                |  Ceramic Capacitor   |                 1 |
-        | 100nF               |  Ceramic Capacitor   |                 1 |
-        | SD                  |  Surface Mount Rectifier |             1 |
-        | 6.8uH               |  Inductor Power Shielded |             1 |
-        | 332k                |  RES 0.33 OHM 1% 1/4W |                1 |
-        | 68.1k               |  RES 0.33 OHM 1% 1/4W |                1 |
-        | 27.4k               |  RES 0.33 OHM 1% 1/4W |                1 |
-        | 10.2k               |  RES 0.33 OHM 1% 1/4W |                1 |
-        | 1.96k               |  RES 0.33 OHM 1% 1/4W |                1 |
-        | TPS54331DR          | Step-Down Converter with Eco-mode |    1 |
-        {:data-align="center"}
+      |       Part Name     |      Description     |     Quantity      |
+      | ------------------- | :------------------: | ----------------: |
+      | 22uF                |  Ceramic Capacitor   |                 2 |
+      | 47uF                |  Ceramic Capacitor   |                 2 |
+      | 0.01uF              |  Ceramic Capacitor   |                 1 |
+      | 8.2nF               |  Ceramic Capacitor   |                 1 |
+      | 1nF                 |  Ceramic Capacitor   |                 1 |
+      | 10pF                |  Ceramic Capacitor   |                 1 |
+      | 100nF               |  Ceramic Capacitor   |                 1 |
+      | SD                  |  Surface Mount Rectifier |             1 |
+      | 6.8uH               |  Inductor Power Shielded |             1 |
+      | 332k                |  RES 0.33 OHM 1% 1/4W |                1 |
+      | 68.1k               |  RES 0.33 OHM 1% 1/4W |                1 |
+      | 27.4k               |  RES 0.33 OHM 1% 1/4W |                1 |
+      | 10.2k               |  RES 0.33 OHM 1% 1/4W |                1 |
+      | 1.96k               |  RES 0.33 OHM 1% 1/4W |                1 |
+      | TPS54331DR          | Step-Down Converter with Eco-mode |    1 |
+      {:data-align="center"}
         
-        #### Circuit Diagram
+      #### Circuit Diagram
 
-       ![Circuit Diagram of Step Down Converter](:project1_circuit_diagram.jpg){:data-align="center"}
+      ![Circuit Diagram of Step Down Converter](:project1_circuit_diagram.jpg){:data-align="center"}
