@@ -38,7 +38,7 @@ img: ":home-heading.jpg"
 ---
 
 # Welcome to my portfolio page. (Site under development) 
-[](/assets/icons/screwdriver-wrench-solid.svg)
+![](/assets/icons/screwdriver-wrench-solid.svg)
 
 ## Objective
 
