@@ -40,9 +40,9 @@ page_data:
         
         |       Part Name     |      Description     |     Quantity      |
         | ------------------- | :------------------: | ----------------: |
-        | 22uF                |  Ceramic Capacitor   |              2    |
-        | 47uF                |  Ceramic Capacitor   |               2   |
-        | 0.01uF              |  Ceramic Capacitor   |                1  |
+        | 22uF                |  Ceramic Capacitor   |                 2 |
+        | 47uF                |  Ceramic Capacitor   |                 2 |
+        | 0.01uF              |  Ceramic Capacitor   |                 1 |
         | 8.2nF               |  Ceramic Capacitor   |                 1 |
         | 1nF                 |  Ceramic Capacitor   |                 1 |
         | 10pF                |  Ceramic Capacitor   |                 1 |
