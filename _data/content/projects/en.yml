@@ -23,12 +23,12 @@ page_data:
       color: "#c53645"
 
   list:
-    # 5V SMPS (small)
+    # example
     - type: id_opsource
       project_name: "12V to 5V converting SMPS PCB"
       project_excerpt: "Circuit & PCB design"
-      img: "/assets/img/projects/project1_12V_5V_smps.jpg"
-      img_title: "12V to 5V converting SMPS PCB.jpg"
+      img: ":project1_12V_5V_smps.jpg"
+      img_title: "12V to 5V converting SMPS PCB"
       date: "2022-10-15"
       post: |
 
