@@ -39,7 +39,7 @@ img: ":home-heading.jpg"
 
 # Welcome to my portfolio page. 
 
-Site Under Development ![](/assets/icons/work-in-progress.png)
+Site Under Development ![](/assets/icons/construction.svg)
 
 ## Objective
 
