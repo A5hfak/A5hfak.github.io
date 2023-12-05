@@ -13,7 +13,7 @@ img: ":home-heading.jpg"
 #title: My title
 #button_name: "My button"
 # for override side_and_top_nav_buttons in _data/conf/main.yml
-icon: "fa fa-screwdriver-wrench"
+#icon: "fa fa-screwdriver-wrench"
 
 # seo
 # if not specified, date will be used.
@@ -37,7 +37,7 @@ icon: "fa fa-screwdriver-wrench"
 #published: false
 ---
 
-# Welcome to my portfolio page. (Site under development icon: "fa fa-screwdriver-wrench")
+# Welcome to my portfolio page. (Site under development <i class="fa-solid fa-screwdriver-wrench"></i>)
 
 ## Objective
 
