@@ -11,26 +11,26 @@ page_data:
     img: ":projects-heading.jpg"
     back_color: "lightblue"
 
-  category:
-    - title: "Academic"
-      type: id_academic
-      color: "#fac227"
-    - title: "Professional"
-      type: id_professional
-      color: "#5a5a5a"
-    - title: "Open Source"
-      type: id_opsource
-      color: "#c53645"
+category:
+  - title: "Academic"
+    type: id_academic
+    color: "#fac227"
+  - title: "Professional"
+    type: id_professional
+    color: "#5a5a5a"
+  - title: "Open Source"
+    type: id_opsource
+    color: "#c53645"
 
-  list:
-    # example
-    - type: id_opsource
-      project_name: "12V to 5V converting SMPS PCB"
-      project_excerpt: "Circuit & PCB design"
-      img: ":project1_12V_5V_smps.jpg"
-      img_title: "12V to 5V converting SMPS PCB"
-      date: "2022-10-15"
-      post: |
+list:
+  # 5V SMPS (small)
+  - type: id_opsource
+    project_name: "12V to 5V converting SMPS PCB"
+    project_excerpt: "Circuit & PCB design"
+    img: ":project1_12V_5V_smps.jpg"
+    img_title: "12V to 5V converting SMPS PCB"
+    date: "2022-10-15"
+    post: |
 
         Printed Circuit Board (PCB) Design for a 12V to 5V Switched-Mode Power Supply (SMPS) Converter.
         
