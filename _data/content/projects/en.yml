@@ -56,6 +56,10 @@ page_data:
         | 1.96k               |  RES 0.33 OHM 1% 1/4W |                1 |
         | TPS54331DR          | Step-Down Converter with Eco-mode |    1 |
         {:data-align="center"}
+        
+        #### Circuit Diagram
+
+       ![Circuit Diagram of Step Down Converter](/assets/img/projects/project1_circuit_diagram.JPG)
 
     # picture
     - type: id_picture
