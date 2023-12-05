@@ -38,8 +38,8 @@ img: ":home-heading.jpg"
 ---
 
 # Welcome to my portfolio page. (Site under development) 
-![](https://github.com/A5hfak/A5hfak.github.io/tree/main/assets/icons/screwdriver-wrench-solid.svg)
-img: "/assets/icons/screwdriver-wrench-solid.svg"
+[![](https://github.com/A5hfak/A5hfak.github.io/tree/main/assets/icons/screwdriver-wrench-solid.svg)]
+
 ## Objective
 
 Proactive Embedded System Engineer with 1+ year experience in the startup ecosystem. I excel at driving innovation and delivering impactful solutions in embedded systems. 
