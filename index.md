@@ -37,7 +37,7 @@ img: ":home-heading.jpg"
 #published: false
 ---
 
-# Welcome to my portfolio page. (Site under development ':construction:')
+# Welcome to my portfolio page. (Site under development #icon: "/assets/img/default/mastodon.svg")
 
 ## Objective
 
