@@ -37,7 +37,7 @@ img: ":home-heading.jpg"
 #published: false
 ---
 
-# Welcome to my portfolio page. (Site under development <i class="fa-solid fa-screwdriver-wrench"></i>)
+# Welcome to my portfolio page. (Site under development ![](https://github.com/A5hfak/A5hfak.github.io/tree/main/assets/icons/screwdriver-wrench-solid.svg))
 
 ## Objective
 
