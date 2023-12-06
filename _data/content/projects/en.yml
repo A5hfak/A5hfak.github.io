@@ -61,8 +61,7 @@ page_data:
 
         ![Circuit Diagram of Step Down Converter](:project1_circuit_diagram.jpg){:data-align="center"}
 
-  list:
-    # 5V SMPS (small)
+    # HushHorn
     - type: id_professional
       project_name: "Live GPS Tracker for Traffic Noise Reduction"
       project_excerpt: "R&D, Circuit, PCB, Prototype design"
