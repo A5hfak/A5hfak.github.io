@@ -92,10 +92,10 @@ page_data:
          - Developed the overall system architecture, defining the role of each hardware component.
 
         **Circuit Design:**
-         - Created detailed circuit diagrams for the ESP32, GPS, 4G GSM, and gyro modules.
+         - I created detailed circuit diagrams for the ESP32, GPS, 4G GSM, gyro modules, etc.
 
         **PCB Design:**
-         - Translated circuit designs into PCB layouts for efficient and compact integration.
+         - Translated circuit designs into an SMD PCB layout for efficient and compact integration.
 
         ## Enclosure Design
 
@@ -103,10 +103,10 @@ page_data:
          - Defined the design requirements for the enclosure based on functionality and aesthetics.
 
         **3D Design:**
-         - Utilized 3D design software to create a detailed model of the enclosure.
+         - Used Blender to 3D design a detailed enclosure model.
 
         **Material Selection:**
-         - Choose materials based on durability, cost-effectiveness, and manufacturing feasibility.
+         - Chose materials based on durability, cost-effectiveness, and manufacturing feasibility.
 
         ## Prototype Development
 
@@ -129,7 +129,7 @@ page_data:
 
         ## Impact
 
-        Completing the research, development, and testing phases has produced a strong Live GPS Tracker with significant potential for mitigating traffic noise in urban areas. 
+        Completing the research, development, and testing phases has produced a strong Live GPS Tracker with significant potential for mitigating traffic noise in busy cities like Dhaka. 
 
         ## Conclusion
 
@@ -138,5 +138,7 @@ page_data:
         ---
 
         **Copyright © Vertical Innovations LTD 2023. All Rights Reserved.**
+        
         This documentation is the intellectual property of Vertical Innovations LTD. Unauthorized copying or reproduction of this document or any part thereof is strictly prohibited. Permission for use must be obtained in writing from Vertical Innovations LTD.
+        
         Visit [Vertical Innovations LTD](https://www.vertical-innovations.com/) for more information about our projects and services.
