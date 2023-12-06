@@ -60,3 +60,84 @@ page_data:
         #### Circuit Diagram
 
         ![Circuit Diagram of Step Down Converter](:project1_circuit_diagram.jpg){:data-align="center"}
+
+  list:
+    # 5V SMPS (small)
+    - type: id_professional
+      project_name: "Live GPS Tracker for Traffic Noise Reduction"
+      project_excerpt: "R&D, Circuit, PCB, Prototype design"
+      img: ":project2_horne_project.jpg"
+      img_title: "Horne Project Prototype"
+      date: "2023-5-10"
+      post: |
+
+        The innovative project, the Live GPS Tracker for Traffic Noise Reduction, aims to tackle traffic noise problems in Bangladesh. This report outlines the different phases of the project, such as research and development, hardware design, enclosure design, prototype development, and vehicle testing.
+        
+        ***
+
+        ## Research and Development (R&D)
+
+        **Objective:**
+         - Define the goals and objectives of the project.
+         - Identify the key challenges related to traffic noise reduction.
+
+        **Market Analysis:**
+         - Conducted market research to understand existing solutions and identify gaps.
+
+        **Feasibility Study:**
+         - Evaluated the technical and economic feasibility of the project.
+
+        ## Hardware Design
+
+        **System Architecture:**
+         - Developed the overall system architecture, defining the role of each hardware component.
+
+        **Circuit Design:**
+         - Created detailed circuit diagrams for the ESP32, GPS, 4G GSM, and gyro modules.
+
+        **PCB Design:**
+         - Translated circuit designs into PCB layouts for efficient and compact integration.
+
+        ## Enclosure Design
+
+        **Conceptualization:**
+         - Defined the design requirements for the enclosure based on functionality and aesthetics.
+
+        **3D Design:**
+         - Utilized 3D design software to create a detailed model of the enclosure.
+
+        **Material Selection:**
+         - Choose materials based on durability, cost-effectiveness, and manufacturing feasibility.
+
+        ## Prototype Development
+
+        **Assembly:**
+         - Assembled a functional prototype incorporating the designed PCB, enclosure, and all components.
+
+        **Programming:**
+         - Developed and loaded firmware onto the ESP32 for basic functionality.
+
+        **Initial Testing:**
+         - Conducted preliminary tests to ensure individual components and subsystems function correctly.
+
+        ## Vehicle Testing
+
+        **Field Trials:**
+         - Installed prototypes in vehicles for real-world testing and data collection.
+
+        **Data Analysis:**
+         - Analyzed data from live tracking, gyro sensors, and horn press counts during vehicle testing.
+
+        ## Impact
+
+        Completing the research, development, and testing phases has produced a strong Live GPS Tracker with significant potential for mitigating traffic noise in urban areas. 
+
+        ## Conclusion
+
+        The successful implementation of the entire project lifecycle, from R&D and hardware design to enclosure design, prototype development, and vehicle testing, highlights the comprehensive approach taken to tackle the issue of traffic noise in Bangladesh.
+
+        ---
+
+        **Copyright © Vertical Innovations LTD 2023. All Rights Reserved.**
+        This documentation is the intellectual property of Vertical Innovations LTD. Unauthorized copying or reproduction of this document or any part thereof is strictly prohibited. Permission for use must be obtained in writing from Vertical Innovations LTD.
+        Visit [Vertical Innovations LTD](https://www.vertical-innovations.com/) for more information about our projects and services.
