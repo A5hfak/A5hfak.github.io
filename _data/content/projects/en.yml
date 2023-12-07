@@ -142,3 +142,77 @@ page_data:
         This documentation is the intellectual property of Vertical Innovations LTD. Unauthorized copying or reproduction of this document or any part thereof is strictly prohibited. Permission for use must be obtained in writing from Vertical Innovations LTD.
         
         Visit [Vertical Innovations LTD](https://www.vertical-innovations.com/) for more information about our projects and services.
+
+
+    # AquaMeasure
+    - type: id_professional
+      project_name: "Remote Monitoring System for Water Purification Plant"
+      project_excerpt: "R&D, Circuit, PCB, Prototype, Testing, Implementation"
+      img: ":project2_horne_project.jpg"
+      img_title: "Horne Project Prototype"
+      date: "2023-5-10"
+      post: |
+
+        The Remote Monitoring System for Water Filtration Plant is a high-tech solution created to monitor water quality effectively and thoroughly in filtration plants. It uses a Raspberry Pi as the main controller to collect and analyze data from various water filtration tanks with sensors.
+        
+        ***
+
+        ## System Architecture
+
+        **Central Controller:**
+         - Raspberry Pi is the central control unit, coordinating data acquisition and transmission.
+
+        **Custom PCB Design:**
+         - Designed a specialized PCB to control two flowmeters regulating water flow in and out of the filtration plant.
+
+        **Tank Configuration:**
+         - Eight water filtration tanks are integrated, each equipped with the capability to provide water samples for analysis.
+
+        **Sensor Array:**
+         - A small sampling box attached to each tank houses sensors measuring pH, temperature, turbidity, conductivity, TDS, and salinity.
+
+        ## Data Acquisition and Transmission
+
+        **Simultaneous Measurement:**
+         - Sensors collect real-time data for each parameter, allowing simultaneous measurement across all tanks.
+
+        **Central Server:**
+         - The Raspberry Pi transmits the collected data to a central server for storage and analysis.
+
+        **Client Access:**
+         - Clients can access a dedicated web interface, providing a quick overview and detailed insights into water quality parameters.
+
+        ## Front-End Interface
+
+        **User-Friendly Design:**
+         - Developed an aesthetically pleasing front-end interface for clients to navigate and monitor the plant's status easily.
+
+        **Data Filtering Options:**
+         - Implemented filtering options for quick data analysis based on specific parameters or timeframes.
+
+        **Data Download Functionality:**
+         - Clients can download comprehensive data reports for further analysis or regulatory compliance.
+
+        ## Implementation and Testing
+
+        **Controller Integration:**
+         - Successfully integrated the Raspberry Pi controller with the custom PCB and sensors for seamless functionality.
+
+        **Data Accuracy:**
+         - Rigorous testing ensured the accuracy and reliability of sensor measurements in diverse plant conditions.
+
+        ## Impact
+
+        The Remote Monitoring System boosts the effectiveness of managing water quality in filtration plants. Giving clients access to real-time data and analysis helps them make smarter decisions for running their plants at their best. 
+
+        ## Conclusion
+
+        Our successful use of the Remote Monitoring System shows how dedicated we are to using technology for accurate, remote, and efficient monitoring of important infrastructure. Its strong hardware design, smooth data transmission, and easy-to-use interface provide a complete solution for managing water filtration plants.
+
+        ---
+
+        **Copyright © Vertical Innovations LTD 2023. All Rights Reserved.**
+        
+        This documentation is the intellectual property of Vertical Innovations LTD. Unauthorized copying or reproduction of this document or any part thereof is strictly prohibited. Permission for use must be obtained in writing from Vertical Innovations LTD.
+        
+        Visit [Vertical Innovations LTD](https://www.vertical-innovations.com/) for more information about our projects and services.
