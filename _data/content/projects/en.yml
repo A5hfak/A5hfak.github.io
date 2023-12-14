@@ -216,3 +216,64 @@ page_data:
         This documentation is the intellectual property of Vertical Innovations LTD. Unauthorized copying or reproduction of this document or any part thereof is strictly prohibited. Permission for use must be obtained in writing from Vertical Innovations LTD.
         
         Visit [Vertical Innovations LTD](https://www.vertical-innovations.com/) for more information about our projects and services.
+
+
+    # Jyoti
+    - type: id_professional
+      project_name: "Smart Sanitary Napkin Vending Machine"
+      project_excerpt: "R&D, Circuit, PCB, Prototype, Testing, Implementation"
+      img: ":project4_jyoti.jpg"
+      img_title: "A Jyoti Device."
+      date: "2022-8-1"
+      post: |
+
+        The Smart Sanitary Napkin Vending Machine project is a pioneering initiative to provide accessible and hygienic sanitary products across various regions of Bangladesh. With over 220 devices deployed, ranging from the capital city, Dhaka, to remote villages, the project addresses a critical need for women's health and hygiene.
+        
+        ***
+
+        ## Role and Contributions
+
+        ### Machine Enhancement
+
+        Upon joining the project, my primary focus was improving the existing vending machine. Key contributions include:
+
+          - **PCB Upgrade:** Transitioned the central PCB from a DIP to an SMD configuration for enhanced efficiency and compactness.
+          - **Additional Power Supply:** Implemented a second power supply, doubling the machine's reliability.
+          - **Feature Expansion:** Introduced features such as GSM connectivity, an updated RFID reading PCB, and other enhancements.
+
+        ### Product Development
+
+        During the project, I spearheaded the development of a new solution, creating a flagship device. This device represents the culmination of extensive research, development, and testing efforts.
+
+          - **Increased Options:** Expanded the product line from four to five devices, with the latest iteration serving as the flagship model.
+          - **Offline Capability:** Engineered an offline variant of the vending machine, ensuring functionality even without server communication.
+
+        ### Connectivity and Security
+
+        Ensured seamless and secure communication between devices and the central server.
+
+          - **GSM Integration:** Implemented 4G modules for continuous network connectivity, enabling 24/7 operation.
+          - **OTA Features:** Incorporated Over-The-Air (OTA) update capabilities for efficient remote device management.
+          - **Theft Protection:** Developed innovative solutions to enhance the security of the vending machines against theft.
+
+        ## Project Lifecycle
+
+        My involvement in the project spanned the entire development lifecycle:
+
+          1. **R&D and Component Procurement:** Conducted extensive research and played a key role in sourcing components for the project.
+          2. **Development:** Led the development process, overseeing the transition from prototype to the final product.
+          3. **Testing:** Conducted rigorous testing procedures to ensure the reliability and functionality of the vending machines.
+          4. **Device Operations:** Monitored and optimized the performance of deployed devices, ensuring seamless operation.
+
+        ## Conclusion
+
+        The Smart Sanitary Napkin Vending Machine project showcases my hardware development, feature integration, and project management expertise. The diverse range of improvements and innovations introduced during my tenure demonstrates a commitment to technological advancement and addressing critical societal needs.
+
+        ---
+
+        **Copyright © Vertical Innovations LTD 2023. All Rights Reserved.**
+        
+        This documentation is the intellectual property of Vertical Innovations LTD. Unauthorized copying or reproduction of this document or any part thereof is strictly prohibited. Permission for use must be obtained in writing from Vertical Innovations LTD.
+        
+        Visit [Vertical Innovations LTD](https://www.vertical-innovations.com/) for more information about our projects and services.
+
