@@ -263,6 +263,13 @@ page_data:
           3. **Testing:** Conducted rigorous testing procedures to ensure the reliability and functionality of the vending machines.
           4. **Device Operations:** Monitored and optimized the performance of deployed devices, ensuring seamless operation.
 
+        ## PCB Designs
+        
+        1. A new PCB featuring an integrated GSM module and SMD components designed to deliver enhanced performance and reliability.
+
+        ![Circuit Diagram of Jyoti GSM board V1.0](:project4_jyoti_V1.0.jpg){:data-align="center"}
+
+
         ## Conclusion
 
         The Smart Sanitary Napkin Vending Machine project showcases my hardware development, feature integration, and project management expertise. The diverse range of improvements and innovations introduced during my tenure demonstrates a commitment to technological advancement and addressing critical societal needs.
