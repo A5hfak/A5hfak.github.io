@@ -131,6 +131,10 @@ page_data:
 
         Completing the research, development, and testing phases has produced a strong Live GPS Tracker with significant potential for mitigating traffic noise in busy cities like Dhaka. 
 
+        ## PCB Designs
+        
+        ![PCB Diagram of Horne Project](:project2_horne_pcb.jpg){:data-align="center"}
+
         ## Conclusion
 
         The successful implementation of the entire project lifecycle, from R&D and hardware design to enclosure design, prototype development, and vehicle testing, highlights the comprehensive approach taken to tackle the issue of traffic noise in Bangladesh.
