@@ -18,7 +18,7 @@ page_data:
     - title: "Professional"
       type: id_professional
       color: "#5a5a5a"
-    - title: "Open Source"
+    - title: "Personal"
       type: id_opsource
       color: "#c53645"
 
@@ -286,3 +286,67 @@ page_data:
         
         Visit [Vertical Innovations LTD](https://www.vertical-innovations.com/) for more information about our projects and services.
 
+    # Jyoti
+- type: id_opsource
+  project_name: "Smart Green House"
+  project_excerpt: "IoT, Circuit Design, PCB, Prototyping, Automation"
+  img: ":project5_SGH5.jpg"
+  img_title: "A Smart Indoor Green House Device."
+  date: "2023-12-16"
+  post: |
+
+    The Smart Green House project is an innovative IoT solution designed for indoor plant cultivation with automated monitoring and control features. This project encompasses a range of components and systems to support a sustainable and efficient growing environment.
+
+    ***
+
+    ### System Features
+
+    The Smart Green House integrates various technologies and components to create a responsive and self-sustaining growing system:
+
+      - **Sensor Integration:** Includes a Soil Moisture Sensor and Light Sensor to monitor plant needs and environment conditions.
+      - **Light System:** Equipped with an artificial sunlight system for optimal plant growth indoors.
+      - **Automatic Watering System:** Features a water pump and piping to automate plant irrigation based on soil moisture levels.
+
+    ### IoT Functionality
+
+    The Smart Green House offers remote control and monitoring capabilities:
+
+      - **Cloud Control:** Users can control the system via a cloud-based interface, providing real-time adjustments and status updates.
+      - **Data Storage:** All sensor data is stored on a server, enabling long-term monitoring and analysis of plant health and environmental conditions.
+      - **Mobile App:** A custom app provides users with remote access to system functions and real-time notifications.
+
+    ### Enclosure and Structure
+
+      - **System Enclosure:** A custom enclosure houses all system components, including sensors, water container, and electronics.
+      - **ESP8266 Microcontroller:** Acts as the main controller, handling sensor inputs and device outputs to ensure efficient and accurate operation.
+
+    ### Future Development
+
+      - **Power System Upgrades:** Future plans include adding a battery backup and charging system for greater resilience and uninterrupted operation.
+
+    ## Backend Development
+
+    The backend system, developed using Django, powers the cloud-based controls and data storage. It manages user interactions with the system and provides the necessary API endpoints for the app.
+
+    ## Project Images
+
+    1. **Main System View**  
+       ![Main View of Smart Green House](:project5_SGH5.jpg){:data-align="center"}
+
+    2. **3D Enclosure Design**  
+       ![3D Design of Enclosure](:project5_SGH4.jpg){:data-align="center"}
+
+    3. **PCB with Components**  
+       ![PCB 3D View with Components](:project5_SGH3.jpg){:data-align="center"}
+
+    4. **PCB Without Components**  
+       ![PCB 3D View without Components](:project5_SGH2.jpg){:data-align="center"}
+
+    5. **Circuit Diagram**  
+       ![Circuit Diagram of Smart Green House](:project5_SGH1.jpg){:data-align="center"}
+
+    ## Conclusion
+
+    The Smart Green House project showcases my skills in IoT system design, backend development with Django, and hands-on prototyping. It demonstrates the potential of automated solutions in sustainable indoor agriculture and highlights a blend of hardware, software, and cloud-based capabilities.
+    
+  ---
