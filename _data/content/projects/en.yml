@@ -327,11 +327,10 @@ page_data:
         
           - The backend system, developed using Django, powers the cloud-based controls and data storage. It manages user interactions with the system and provides the necessary API endpoints for the app.
 
-        ## PCB Designs
+        ## Project Images
 
-        1. A new PCB featuring an integrated GSM module and SMD components designed to deliver enhanced performance and reliability.
-
-        ![Circuit Diagram of Jyoti GSM board V1.0](:project4_jyoti_V1.0.jpg){:data-align="center"}
+        1. **Main System View**
+        ![Main View of Smart Green House](:project5_SGH5.jpg){:data-align="center"}
 
 
         ## Conclusion
