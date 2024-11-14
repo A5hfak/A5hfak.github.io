@@ -36,7 +36,7 @@ page_data:
         ***
         
         #### Components
-
+        
         |       Part Name     |      Description     |     Quantity      |
         | ------------------- | :------------------: | ----------------: |
         | 22uF                |  Ceramic Capacitor   |                 2 |
@@ -55,7 +55,7 @@ page_data:
         | 1.96k               |  RES 0.33 OHM 1% 1/4W |                1 |
         | TPS54331DR          | Step-Down Converter with Eco-mode |    1 |
         {:data-align="center"}
-
+        
         #### Circuit Diagram
 
         ![Circuit Diagram of Step Down Converter](:project1_circuit_diagram.jpg){:data-align="center"}
@@ -76,55 +76,55 @@ page_data:
         ## Research and Development (R&D)
 
         **Objective:**
-          - Define the goals and objectives of the project.
-          - Identify the key challenges related to traffic noise reduction.
+         - Define the goals and objectives of the project.
+         - Identify the key challenges related to traffic noise reduction.
 
         **Market Analysis:**
-          - Conducted market research to understand existing solutions and identify gaps.
+         - Conducted market research to understand existing solutions and identify gaps.
 
         **Feasibility Study:**
-          - Evaluated the technical and economic feasibility of the project.
+         - Evaluated the technical and economic feasibility of the project.
 
         ## Hardware Design
 
         **System Architecture:**
-          - Developed the overall system architecture, defining the role of each hardware component.
+         - Developed the overall system architecture, defining the role of each hardware component.
 
         **Circuit Design:**
-          - I created detailed circuit diagrams for the ESP32, GPS, 4G GSM, gyro modules, etc.
+         - I created detailed circuit diagrams for the ESP32, GPS, 4G GSM, gyro modules, etc.
 
         **PCB Design:**
-          - Translated circuit designs into an SMD PCB layout for efficient and compact integration.
+         - Translated circuit designs into an SMD PCB layout for efficient and compact integration.
 
         ## Enclosure Design
 
         **Conceptualization:**
-          - Defined the design requirements for the enclosure based on functionality and aesthetics.
+         - Defined the design requirements for the enclosure based on functionality and aesthetics.
 
         **3D Design:**
-          - Used Blender to 3D design a detailed enclosure model.
+         - Used Blender to 3D design a detailed enclosure model.
 
         **Material Selection:**
-          - Chose materials based on durability, cost-effectiveness, and manufacturing feasibility.
+         - Chose materials based on durability, cost-effectiveness, and manufacturing feasibility.
 
         ## Prototype Development
 
         **Assembly:**
-          - Assembled a functional prototype incorporating the designed PCB, enclosure, and all components.
+         - Assembled a functional prototype incorporating the designed PCB, enclosure, and all components.
 
         **Programming:**
-          - Developed and loaded firmware onto the ESP32 for basic functionality.
+         - Developed and loaded firmware onto the ESP32 for basic functionality.
 
         **Initial Testing:**
-          - Conducted preliminary tests to ensure individual components and subsystems function correctly.
+         - Conducted preliminary tests to ensure individual components and subsystems function correctly.
 
         ## Vehicle Testing
 
         **Field Trials:**
-          - Installed prototypes in vehicles for real-world testing and data collection.
+         - Installed prototypes in vehicles for real-world testing and data collection.
 
         **Data Analysis:**
-          - Analyzed data from live tracking, gyro sensors, and horn press counts during vehicle testing.
+         - Analyzed data from live tracking, gyro sensors, and horn press counts during vehicle testing.
 
         ## Impact
 
@@ -146,6 +146,7 @@ page_data:
         
         Visit [Vertical Innovations LTD](https://www.vertical-innovations.com/) for more information about our projects and services.
 
+
     # AquaMeasure
     - type: id_professional
       project_name: "Remote Monitoring System for Water Purification Plant"
@@ -162,46 +163,46 @@ page_data:
         ## System Architecture
 
         **Central Controller:**
-          - Raspberry Pi is the central control unit, coordinating data acquisition and transmission.
+         - Raspberry Pi is the central control unit, coordinating data acquisition and transmission.
 
         **Custom PCB Design:**
-          - Designed a specialized PCB to control two flowmeters regulating water flow in and out of the filtration plant.
+         - Designed a specialized PCB to control two flowmeters regulating water flow in and out of the filtration plant.
 
         **Tank Configuration:**
-          - Eight water filtration tanks are integrated, each equipped with the capability to provide water samples for analysis.
+         - Eight water filtration tanks are integrated, each equipped with the capability to provide water samples for analysis.
 
         **Sensor Array:**
-          - A small sampling box attached to each tank houses sensors measuring pH, temperature, turbidity, conductivity, TDS, and salinity.
+         - A small sampling box attached to each tank houses sensors measuring pH, temperature, turbidity, conductivity, TDS, and salinity.
 
         ## Data Acquisition and Transmission
 
         **Simultaneous Measurement:**
-          - Sensors collect real-time data for each parameter, allowing simultaneous measurement across all tanks.
+         - Sensors collect real-time data for each parameter, allowing simultaneous measurement across all tanks.
 
         **Central Server:**
-          - The Raspberry Pi transmits the collected data to a central server for storage and analysis.
+         - The Raspberry Pi transmits the collected data to a central server for storage and analysis.
 
         **Client Access:**
-          - Clients can access a dedicated web interface, providing a quick overview and detailed insights into water quality parameters.
+         - Clients can access a dedicated web interface, providing a quick overview and detailed insights into water quality parameters.
 
         ## Front-End Interface
 
         **User-Friendly Design:**
-          - Developed an aesthetically pleasing front-end interface for clients to navigate and monitor the plant's status easily.
+         - Developed an aesthetically pleasing front-end interface for clients to navigate and monitor the plant's status easily.
 
         **Data Filtering Options:**
-          - Implemented filtering options for quick data analysis based on specific parameters or timeframes.
+         - Implemented filtering options for quick data analysis based on specific parameters or timeframes.
 
         **Data Download Functionality:**
-          - Clients can download comprehensive data reports for further analysis or regulatory compliance.
+         - Clients can download comprehensive data reports for further analysis or regulatory compliance.
 
         ## Implementation and Testing
 
         **Controller Integration:**
-          - Successfully integrated the Raspberry Pi controller with the custom PCB and sensors for seamless functionality.
+         - Successfully integrated the Raspberry Pi controller with the custom PCB and sensors for seamless functionality.
 
         **Data Accuracy:**
-          - Rigorous testing ensured the accuracy and reliability of sensor measurements in diverse plant conditions.
+         - Rigorous testing ensured the accuracy and reliability of sensor measurements in diverse plant conditions.
 
         ## Impact
 
@@ -219,6 +220,7 @@ page_data:
         
         Visit [Vertical Innovations LTD](https://www.vertical-innovations.com/) for more information about our projects and services.
 
+
     # Jyoti
     - type: id_professional
       project_name: "Smart Sanitary Napkin Vending Machine"
@@ -232,7 +234,7 @@ page_data:
         
         ***
 
-        ## Machine Enhancement
+        ### Machine Enhancement
 
         Upon joining the project, my primary focus was improving the existing vending machine. Key contributions include:
 
@@ -240,14 +242,14 @@ page_data:
           - **Additional Power Supply:** Implemented a second power supply, doubling the machine's reliability.
           - **Feature Expansion:** Introduced features such as GSM connectivity, an updated RFID reading PCB, and other enhancements.
 
-        ## Product Development
+        ### Product Development
 
         During the project, I spearheaded the development of a new solution, creating a flagship device. This device represents the culmination of extensive research, development, and testing efforts.
 
           - **Increased Options:** Expanded the product line from four to five devices, with the latest iteration serving as the flagship model.
           - **Offline Capability:** Engineered an offline variant of the vending machine, ensuring functionality even without server communication.
 
-        ## Connectivity and Security
+        ### Connectivity and Security
 
         Ensured seamless and secure communication between devices and the central server.
 
@@ -270,77 +272,11 @@ page_data:
 
         ![Circuit Diagram of Jyoti GSM board V1.0](:project4_jyoti_V1.0.jpg){:data-align="center"}
 
+
         ## Conclusion
 
         The Smart Sanitary Napkin Vending Machine project showcases my hardware development, feature integration, and project management expertise. The diverse range of improvements and innovations introduced during my tenure demonstrates a commitment to technological advancement and addressing critical societal needs.
 
-        ---
-
-        **Copyright © Vertical Innovations LTD 2023. All Rights Reserved.**
-        
-        This documentation is the intellectual property of Vertical Innovations LTD. Unauthorized copying or reproduction of this document or any part thereof is strictly prohibited. Permission for use must be obtained in writing from Vertical Innovations LTD.
-        
-        Visit [Vertical Innovations LTD](https://www.vertical-innovations.com/) for more information about our projects and services.
-
-
-    # Smart Green House
-    - type: id_opsource
-      project_name: "Smart Green House"
-      project_excerpt: "IoT, Circuit Design, PCB, Prototyping, Automation"
-      img: ":project5_SGH5.jpg"
-      img_title: "A Smart Indoor Green House Device."
-      date: "2023-12-16"
-      post: |
-
-         The Smart Green House project is an innovative IoT solution designed for indoor plant cultivation with automated monitoring and control features. This project encompasses a range of components and systems to support a sustainable and efficient growing environment.
-        
-        ***
-
-        ## System Features
-
-        The Smart Green House integrates various technologies and components to create a responsive and self-sustaining growing system:
-
-          - **Sensor Integration:** Includes a Soil Moisture Sensor and Light Sensor to monitor plant needs and environment conditions.
-          - **Light System:** Equipped with an artificial sunlight system for optimal plant growth indoors.
-          - **Automatic Watering System:** Features a water pump and piping to automate plant irrigation based on soil moisture levels.
-
-        ## IoT Functionality
-
-        The Smart Green House offers remote control and monitoring capabilities:
-
-          - **Cloud Control:**  Users can control the system via a cloud-based interface, providing real-time adjustments and status updates.
-          - **Data Storage:** All sensor data is stored on a server, enabling long-term monitoring and analysis of plant health and environmental conditions.
-          - **Mobile App:** A custom app provides users with remote access to system functions and real-time notifications.
-
-        ## Enclosure and Structure
-
-          - **System Enclosure:** A custom enclosure houses all system components, including sensors, water container, and electronics.
-          - **ESP8266 Microcontroller:** Acts as the main controller, handling sensor inputs and device outputs to ensure efficient and accurate operation.
-
-        ## Future Development
-          - **Power System Upgrades:** Future plans include adding a battery backup and charging system for greater resilience and uninterrupted operation.
-
-        ## Backend Development
-        
-        The backend system, developed using Django, powers the cloud-based controls and data storage. It manages user interactions with the system and provides the necessary API endpoints for the app.
-        
-        ## Project Images
-
-        1. **Main System View**
-           ![Main View of Smart Green House](:project5_SGH5.jpg){:data-align="center"}
-        2. **3D Enclosure Design**
-           ![3D Design of Enclosure](:project5_SGH4.jpg){:data-align="center"}
-        3. **PCB with Components**
-           ![PCB 3D View with Components](:project5_SGH3.jpg){:data-align="center"}
-        4. **PCB Without Components**
-           ![PCB 3D View without Components](:project5_SGH2.jpg){:data-align="center"}
-        5. **Circuit Diagram**
-           ![Circuit Diagram of Smart Green House](:project5_SGH1.jpg){:data-align="center"}
-        
-        ## Conclusion
-
-        The Smart Green House project showcases my skills in IoT system design, backend development with Django, and hands-on prototyping. It demonstrates the potential of automated solutions in sustainable indoor agriculture and highlights a blend of hardware, software, and cloud-based capabilities.
-        
         ---
 
         **Copyright © Vertical Innovations LTD 2023. All Rights Reserved.**
