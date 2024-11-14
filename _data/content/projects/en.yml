@@ -146,10 +146,9 @@ page_data:
         
         Visit [Vertical Innovations LTD](https://www.vertical-innovations.com/) for more information about our projects and services.
 
-
     # AquaMeasure
     - type: id_professional
-      project_name: "Remote Monitoring System for Water Purification Plant"
+      project_name: "Remote Monitoring System for Water Plant"
       project_excerpt: "R&D, Circuit, PCB, Prototype, Testing, Implementation"
       img: ":project3_aqua_VI.jpg"
       img_title: "Outer Box view."
