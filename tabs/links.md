@@ -10,11 +10,14 @@ page_data:
   category:
     - title: "Social"
       type: id_social
-      color: "#F4A273"
+      color: "#e07a5f"
     - title: "Programming"
       type: id_programming
-      color: "#62b462"
-
+      color: "#f2cc8f"
+    - title: "Research"
+      type: id_research
+      color: "#a7c957"
+      
   list:
     -
     # personal projects
@@ -28,4 +31,11 @@ page_data:
       title: "Github"
       url: "https://github.com/A5hfak"
       info: "Please go through my github for my programming projects."
+      
+    # research
+    - type: id_research
+      title: "ORCiD"
+      url: "https://orcid.org/0009-0009-9098-2039"
+      info: "Please go through my ORCiD for my Research publication. If you have a research opportunity i will be happy to discuss."
+
 ---
