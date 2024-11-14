@@ -1,3 +1,6 @@
+Certainly! Here’s your formatted GitHub file structure with improved indentation and alignment:
+
+```yaml
 # you can move this content to front matter of [language]/tabs/projects.md
 ###########################################################
 #                Projects Page Data
@@ -31,7 +34,6 @@ page_data:
       img_title: "12V to 5V converting SMPS PCB"
       date: "2022-10-15"
       post: |
-
         Printed Circuit Board (PCB) Design for a 12V to 5V Switched-Mode Power Supply (SMPS) Converter.
         
         ***
@@ -69,7 +71,6 @@ page_data:
       img_title: "Horne Project Prototype"
       date: "2023-5-10"
       post: |
-
         The innovative project, the Live GPS Tracker for Traffic Noise Reduction, aims to tackle traffic noise problems in Bangladesh. This report outlines the different phases of the project, such as research and development, hardware design, enclosure design, prototype development, and vehicle testing.
         
         ***
@@ -139,14 +140,7 @@ page_data:
 
         The successful implementation of the entire project lifecycle, from R&D and hardware design to enclosure design, prototype development, and vehicle testing, highlights the comprehensive approach taken to tackle the issue of traffic noise in Bangladesh.
 
-        ---
-
-        **Copyright © Vertical Innovations LTD 2023. All Rights Reserved.**
-        
-        This documentation is the intellectual property of Vertical Innovations LTD. Unauthorized copying or reproduction of this document or any part thereof is strictly prohibited. Permission for use must be obtained in writing from Vertical Innovations LTD.
-        
-        Visit [Vertical Innovations LTD](https://www.vertical-innovations.com/) for more information about our projects and services.
-
+ ---
 
     # AquaMeasure
     - type: id_professional
@@ -213,140 +207,4 @@ page_data:
 
         Our successful use of the Remote Monitoring System shows how dedicated we are to using technology for accurate, remote, and efficient monitoring of important infrastructure. Its strong hardware design, smooth data transmission, and easy-to-use interface provide a complete solution for managing water filtration plants.
 
-        ---
-
-        **Copyright © Vertical Innovations LTD 2023. All Rights Reserved.**
-        
-        This documentation is the intellectual property of Vertical Innovations LTD. Unauthorized copying or reproduction of this document or any part thereof is strictly prohibited. Permission for use must be obtained in writing from Vertical Innovations LTD.
-        
-        Visit [Vertical Innovations LTD](https://www.vertical-innovations.com/) for more information about our projects and services.
-
-
-    # Jyoti
-    - type: id_professional
-      project_name: "Smart Sanitary Napkin Vending Machine"
-      project_excerpt: "R&D, Circuit, PCB, Prototype, Testing, Implementation"
-      img: ":project4_jyoti.jpg"
-      img_title: "A Jyoti Device."
-      date: "2022-8-1"
-      post: |
-
-        The Smart Sanitary Napkin Vending Machine project is a pioneering initiative to provide accessible and hygienic sanitary products across various regions of Bangladesh. With over 220 devices deployed, ranging from the capital city, Dhaka, to remote villages, the project addresses a critical need for women's health and hygiene.
-        
-        ***
-
-        ### Machine Enhancement
-
-        Upon joining the project, my primary focus was improving the existing vending machine. Key contributions include:
-
-          - **PCB Upgrade:** Transitioned the central PCB from a DIP to an SMD configuration for enhanced efficiency and compactness.
-          - **Additional Power Supply:** Implemented a second power supply, doubling the machine's reliability.
-          - **Feature Expansion:** Introduced features such as GSM connectivity, an updated RFID reading PCB, and other enhancements.
-
-        ### Product Development
-
-        During the project, I spearheaded the development of a new solution, creating a flagship device. This device represents the culmination of extensive research, development, and testing efforts.
-
-          - **Increased Options:** Expanded the product line from four to five devices, with the latest iteration serving as the flagship model.
-          - **Offline Capability:** Engineered an offline variant of the vending machine, ensuring functionality even without server communication.
-
-        ### Connectivity and Security
-
-        Ensured seamless and secure communication between devices and the central server.
-
-          - **GSM Integration:** Implemented 4G modules for continuous network connectivity, enabling 24/7 operation.
-          - **OTA Features:** Incorporated Over-The-Air (OTA) update capabilities for efficient remote device management.
-          - **Theft Protection:** Developed innovative solutions to enhance the security of the vending machines against theft.
-
-        ## Project Lifecycle
-
-        My involvement in the project spanned the entire development lifecycle:
-
-          1. **R&D and Component Procurement:** Conducted extensive research and played a key role in sourcing components for the project.
-          2. **Development:** Led the development process, overseeing the transition from prototype to the final product.
-          3. **Testing:** Conducted rigorous testing procedures to ensure the reliability and functionality of the vending machines.
-          4. **Device Operations:** Monitored and optimized the performance of deployed devices, ensuring seamless operation.
-
-        ## PCB Designs
-        
-        1. A new PCB featuring an integrated GSM module and SMD components designed to deliver enhanced performance and reliability.
-
-        ![Circuit Diagram of Jyoti GSM board V1.0](:project4_jyoti_V1.0.jpg){:data-align="center"}
-
-
-        ## Conclusion
-
-        The Smart Sanitary Napkin Vending Machine project showcases my hardware development, feature integration, and project management expertise. The diverse range of improvements and innovations introduced during my tenure demonstrates a commitment to technological advancement and addressing critical societal needs.
-
-        ---
-
-        **Copyright © Vertical Innovations LTD 2023. All Rights Reserved.**
-        
-        This documentation is the intellectual property of Vertical Innovations LTD. Unauthorized copying or reproduction of this document or any part thereof is strictly prohibited. Permission for use must be obtained in writing from Vertical Innovations LTD.
-        
-        Visit [Vertical Innovations LTD](https://www.vertical-innovations.com/) for more information about our projects and services.
-
-    # Jyoti
-- type: id_opsource
-  project_name: "Smart Green House"
-  project_excerpt: "IoT, Circuit Design, PCB, Prototyping, Automation"
-  img: ":project5_SGH5.jpg"
-  img_title: "A Smart Indoor Green House Device."
-  date: "2023-12-16"
-  post: |
-
-    The Smart Green House project is an innovative IoT solution designed for indoor plant cultivation with automated monitoring and control features. This project encompasses a range of components and systems to support a sustainable and efficient growing environment.
-
-    ***
-
-    ### System Features
-
-    The Smart Green House integrates various technologies and components to create a responsive and self-sustaining growing system:
-
-      - **Sensor Integration:** Includes a Soil Moisture Sensor and Light Sensor to monitor plant needs and environment conditions.
-      - **Light System:** Equipped with an artificial sunlight system for optimal plant growth indoors.
-      - **Automatic Watering System:** Features a water pump and piping to automate plant irrigation based on soil moisture levels.
-
-    ### IoT Functionality
-
-    The Smart Green House offers remote control and monitoring capabilities:
-
-      - **Cloud Control:** Users can control the system via a cloud-based interface, providing real-time adjustments and status updates.
-      - **Data Storage:** All sensor data is stored on a server, enabling long-term monitoring and analysis of plant health and environmental conditions.
-      - **Mobile App:** A custom app provides users with remote access to system functions and real-time notifications.
-
-    ### Enclosure and Structure
-
-      - **System Enclosure:** A custom enclosure houses all system components, including sensors, water container, and electronics.
-      - **ESP8266 Microcontroller:** Acts as the main controller, handling sensor inputs and device outputs to ensure efficient and accurate operation.
-
-    ### Future Development
-
-      - **Power System Upgrades:** Future plans include adding a battery backup and charging system for greater resilience and uninterrupted operation.
-
-    ## Backend Development
-
-    The backend system, developed using Django, powers the cloud-based controls and data storage. It manages user interactions with the system and provides the necessary API endpoints for the app.
-
-    ## Project Images
-
-    1. **Main System View**  
-       ![Main View of Smart Green House](:project5_SGH5.jpg){:data-align="center"}
-
-    2. **3D Enclosure Design**  
-       ![3D Design of Enclosure](:project5_SGH4.jpg){:data-align="center"}
-
-    3. **PCB with Components**  
-       ![PCB 3D View with Components](:project5_SGH3.jpg){:data-align="center"}
-
-    4. **PCB Without Components**  
-       ![PCB 3D View without Components](:project5_SGH2.jpg){:data-align="center"}
-
-    5. **Circuit Diagram**  
-       ![Circuit Diagram of Smart Green House](:project5_SGH1.jpg){:data-align="center"}
-
-    ## Conclusion
-
-    The Smart Green House project showcases my skills in IoT system design, backend development with Django, and hands-on prototyping. It demonstrates the potential of automated solutions in sustainable indoor agriculture and highlights a blend of hardware, software, and cloud-based capabilities.
-    
-  ---
+ ---
