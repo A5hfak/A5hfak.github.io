@@ -52,9 +52,12 @@ I am excited about opportunities to contribute my skills and expertise to a dyna
 
 
 ## Education
+- **MSc (Technology) in Embedded Systems**
+  - *Tampere University, Finland*
+  - *Website: [Tampere University](https://www.bracu.ac.bd/)* 
 - **BSc in Electrical and Electronic Engineering**
   - *BRAC University, Bangladesh*
-  - *Website: [BRAC University](https://www.bracu.ac.bd/)* 
+  - *Website: [BRAC University](https://www.tuni.fi/fi)* 
 
 ## Professional Experience
 - **Embedded Systems Engineer**
