@@ -440,3 +440,37 @@ page_data:
 
         ---
         
+    # Sanitary Napkin Incinerator
+    - type: id_professional
+      project_name: "Sanitary Napkin Incinerator"
+      project_excerpt: "3D Design, Heat System Development, Insulation for Thermal Efficiency"
+      img: ":project8_sni.jpg"
+      img_title: "Sanitary Napkin Incinerator"
+      date: "2023-03-22"
+      post: |
+
+        The **Sanitary Napkin Incinerator** project focused on creating an efficient, safe, and user-friendly device for the responsible disposal of sanitary products. This project aimed to address environmental and hygiene concerns through a compact, accessible incineration solution, ideal for installation in public restrooms, schools, and hospitals.
+        
+        ***
+
+        ### Overview
+        
+        This incinerator was designed to offer safe disposal with a streamlined, automated process. The compact, insulated unit minimizes heat loss and external heat transfer, ensuring safe operation and energy efficiency.
+
+        ### Project Highlights
+
+          - **3D Enclosure Design**: Led the 3D design of the incinerator’s enclosure, prioritizing compactness, durability, and user safety.
+          - **Heat Generation System**: Engineered the heat generation mechanism, which maintains efficient and consistent incineration while being energy-conscious.
+          - **Thermal Insulation**: Incorporated high-performance insulation materials to reduce external temperature, protecting users and maintaining energy efficiency within the system.
+          - **User Safety Features**: Added user safeguards, such as automatic shutoff upon door opening and heat-resistant external casing, ensuring safe and easy operation.
+
+        ### System Efficiency and Environmental Impact
+
+          - **Energy Efficiency**: Designed with an efficient heating system that reduces overall energy consumption, making it suitable for frequent use in high-traffic facilities.
+          - **Eco-friendly Disposal**: The incinerator provides a hygienic solution for sanitary waste disposal, reducing environmental impact compared to traditional waste management methods.
+                  
+        ## Conclusion
+
+        The Sanitary Napkin Incinerator project demonstrates skills in heat system design, thermal insulation for efficiency and safety, and 3D modeling for practical enclosure design. This project was a significant step toward offering sustainable hygiene solutions and highlights expertise in creating safe, user-friendly, and environmentally responsible hardware.
+
+        ---
