@@ -34,10 +34,12 @@ My goal is to leverage my skills to contribute to projects that advance embedded
 
 ## Education
 - **MSc (Technology) in Embedded Systems**
-  - *Tampere University, Finland*  
+  - *Tampere University, Finland*
+  - **Duration**: August 2024 – Current
   - [Visit Tampere University](https://www.tuni.fi/fi)
 - **BSc in Electrical and Electronic Engineering**
   - *BRAC University, Bangladesh*
+  - **Duration**: January 2018 – May 2022
   - [Visit BRAC University](https://www.bracu.ac.bd/)
 
 ---
@@ -46,25 +48,15 @@ My goal is to leverage my skills to contribute to projects that advance embedded
 
 ### Embedded Systems Engineer
 - **Vertical Innovations LTD.**, Dhaka, Bangladesh
+- **Duration**: July 2022 – July 2024
 - **Role Summary**: Spearheaded the development and implementation of advanced hardware solutions, including IoT-enabled systems and automated devices.
 - **Achievements**:
-  - Designed and deployed a **Smart Sanitary Napkin Vending Machine**, enhancing accessibility in remote regions.
-  - Developed a **Smart Greenhouse** project, integrating IoT and automation for indoor plant cultivation.
+  - Led systematic testing and troubleshooting across multi-stage projects, ensuring functionality and high performance for over 200 IoT devices.
+  - Enhanced device connectivity and efficiency, optimizing power usage and connectivity to meet demanding project requirements.
+  - Directed a six-member team, managing end-to-end deployment and ensuring device functionality under various conditions.
+  - Conducted extensive prototype testing and validation to ensure compliance with industry standards.
 
 [Explore Vertical Innovations LTD.](https://www.vertical-innovations.com/)
-
----
-
-## Projects
-Here are a few notable projects that showcase my skills in embedded systems and IoT:
-
-1. **Smart Sanitary Napkin Vending Machine**
-   - **Objective**: To create a reliable, IoT-enabled device for public health.
-   - **Key Contributions**: GSM integration, OTA updates, RFID, enhanced PCB design.
-
-2. **Smart Greenhouse**
-   - **Objective**: To provide a sustainable indoor plant growth system.
-   - **Key Contributions**: Automated watering, IoT monitoring, custom enclosure.
 
 ---
 
@@ -74,7 +66,7 @@ Feel free to reach out to discuss potential collaborations or opportunities:
 - **GitHub**: [A5hfak](https://github.com/A5hfak)
 - **Email**: [ashfaknehal@gmail.com](mailto:ashfaknehal@gmail.com)
 - **LinkedIn**: [ashfak-haider](https://linkedin.com/in/ashfak-haider)
-- **Google Scholar**: [Ashfak Haider](https://scholar.google.com/citations?user=bNnxTZMAAAAJ&hl=en)
+- **ORCiD**: [Ashfak Haider](https://orcid.org/0009-0009-9098-2039)
 
 ---
 
