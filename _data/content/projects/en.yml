@@ -284,7 +284,7 @@ page_data:
         
         Visit [Vertical Innovations LTD](https://www.vertical-innovations.com/) for more information about our projects and services.
 
-    # Jyoti
+    # Smart Green House
     - type: id_opsource
       project_name: "Smart Green House"
       project_excerpt: "IoT, Circuit Design, PCB, Prototyping, Automation"
@@ -345,3 +345,62 @@ page_data:
         The Smart Green House project showcases my skills in IoT system design, backend development with Django, and hands-on prototyping. It demonstrates the potential of automated solutions in sustainable indoor agriculture and highlights a blend of hardware, software, and cloud-based capabilities.
 
         ---
+
+    # Green House
+    - type: id_opsource
+      project_name: "Route Planning Application"
+      project_excerpt: "Frontend and Backend Development, Weather API Integration, Route Planning, Traffic Analysis"
+      img: ":p5_rp_app.jpg"
+      img_title: "App Preview of Route Planning Application"
+      date: "2024-10-12"
+      post: |
+
+        The **Route Planning Application** is a collaborative project developed to help users plan routes safely, with real-time weather and traffic information. Users can consider road conditions, traffic, and weather forecasts to plan safer journeys.
+        
+        ***
+
+        ### Prototype and Design
+
+          - **Prototype**: You can view the interactive prototype of the application in [Figma](https://figma.com/link-to-prototype).
+          - **Languages and Tools Used**: JavaScript (React), Java (Spring Boot), HTML/CSS, OpenWeather API.
+          - **Repository**: [GitHub Repository](https://github.com/your-username/route-planning-app).
+
+        ### How to Run
+
+          - **Frontend**: Run `npm start` in the frontend directory.
+          - **Data Storage:** All sensor data is stored on a server, enabling long-term monitoring and analysis of plant health and environmental conditions.
+          
+        ### Features and Design Highlights
+
+        1. **Dashboard**
+           - ![Dashboard Overview](:p5_rp_dashboard.jpg){:data-align="center"}
+           - Provides a comprehensive view of weather, traffic, and route planning options.
+        2. **Side Panel**
+           - ![Side Panel View](:p5_rp_sidebar.jpg){:data-align="center"}
+           - Contains navigation and quick access to key features like saved routes and settings.        
+        3. **Route Planning Page**
+           - ![Route Planning Interface](:p5_rp_route.jpg){:data-align="center"}
+           - Enables users to select start and end points, view route options, and check traffic conditions.        
+        4. **History Panel**
+           - ![History Panel Overview](:p5_rp_history.jpg){:data-align="center"}
+           - Shows previously planned routes for quick re-access.        
+        5. **Saved Routes**
+           - ![Saved Routes View](:p5_rp_saved.jpg){:data-align="center"}
+           - Allows users to save preferred routes for easy access and future planning.        
+        6. **Account Management and Settings**
+           - ![Account Management and Settings](:p5_rp_settings.jpg){:data-align="center"}
+           - Users can update their account information, preferences, and app settings.   
+        7. **Help Section**
+           - ![Help Section](:p5_rp_help.jpg){:data-align="center"}
+           - Provides users with guidance on how to use the application and troubleshoot common issues.   
+        8. **Weather Overview**
+           - ![Weather Conditions Panel](:p5_rp_weather.jpg){:data-align="center"}
+           - Displays weather forecasts for selected routes, helping users to plan safe journeys.           
+        
+        ## Conclusion
+
+        The Route Planning Application exemplifies my experience in developing full-stack applications with frontend and backend integration, leveraging APIs for weather data, and designing user-centric interfaces. This project involved collaborative development and multi-faceted testing to ensure seamless functionality across all features.
+
+        ---
+
+        
