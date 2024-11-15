@@ -6,62 +6,76 @@ lng_pair: id_home
 # image for page specific usage
 img: ":home-heading.jpg"
 # publish date (used for seo)
-# if not specified, site.time will be used.
 #date: 2022-03-03 12:32:00 +0000
 
-# for override items in _data/lang/[language].yml
-#title: My title
-#button_name: "My button"
-# for override side_and_top_nav_buttons in _data/conf/main.yml
-#icon: "fa fa-screwdriver-wrench"
-
 # seo
-# if not specified, date will be used.
-#meta_modify_date: 2022-03-03 12:32:00 +0000
-# check the meta_common_description in _data/owner/[language].yml
-#meta_description: ""
+meta_description: "Portfolio of an Embedded Systems Engineer skilled in IoT, PCB design, prototyping, and automation."
 
-# optional
-# please use the "image_viewer_on" below to enable image viewer for individual pages or posts (_posts/ or [language]/_posts folders).
-# image viewer can be enabled or disabled for all posts using the "image_viewer_posts: true" setting in _data/conf/main.yml.
-#image_viewer_on: true
-# please use the "image_lazy_loader_on" below to enable image lazy loader for individual pages or posts (_posts/ or [language]/_posts folders).
-# image lazy loader can be enabled or disabled for all posts using the "image_lazy_loader_posts: true" setting in _data/conf/main.yml.
-#image_lazy_loader_on: true
-# exclude from on site search
-#on_site_search_exclude: true
-# exclude from search engines
-#search_engine_exclude: true
-# to disable this page, simply set published: false or delete this file
-# don't forget that this is root index.html. If you disable this, there will be no index.html page to open
-#published: false
+# optional settings
+image_viewer_on: true
+image_lazy_loader_on: true
+
 ---
 
-# Welcome to my portfolio page. 
+# Welcome to My Portfolio
 
-## Site Under Development 
-![](/assets/icons/construction.svg)
+## About Me
+Former Embedded Systems Engineer with 2+ years of experience in a dynamic startup environment, I specialize in delivering high-impact solutions in embedded systems. With a strong background in hardware development and IoT solutions, I help companies enhance system performance, streamline operations, and drive innovation.
 
-### Objective
+My goal is to leverage my skills to contribute to projects that advance embedded technology, optimize functionality, and bring transformative solutions to life. I am enthusiastic about collaborating with like-minded professionals to foster growth and achieve technical excellence.
 
-Former Embedded System Engineer with 2 years experience in the startup ecosystem. I excel at driving innovation and delivering impactful solutions in embedded systems. 
+---
 
-I help companies streamline their processes, optimize performance, and enhance functionality in their embedded systems. With a keen eye for detail and a passion for problem-solving, I have successfully executed projects that have yielded tangible outcomes. 
-
-I am excited about opportunities to contribute my skills and expertise to a dynamic team. I always seek new challenges to enhance my knowledge of emerging technologies further. I am eager to collaborate with like-minded professionals to drive innovation and create transformative solutions.
-
+## Skills
+- **Hardware Design & Development**: PCB design, prototyping, component selection
+- **Embedded Programming**: C/C++, Python, Microcontroller (ESP8266, STM32)
+- **IoT Solutions**: Device integration, wireless communication, cloud connectivity
+- **Tools & Technologies**: Altium, KiCad, Git, Linux, Jupyter Notebook
 
 ## Education
 - **MSc (Technology) in Embedded Systems**
-  - *Tampere University, Finland*
-  - *Website: [Tampere University](https://www.bracu.ac.bd/)* 
+  - *Tampere University, Finland*  
+  - [Visit Tampere University](https://www.tuni.fi/fi)
 - **BSc in Electrical and Electronic Engineering**
   - *BRAC University, Bangladesh*
-  - *Website: [BRAC University](https://www.tuni.fi/fi)* 
-
-## Professional Experience
-- **Embedded Systems Engineer**
-  - *Vertical Innovations LTD.*, Dhaka, Bangladesh
-  - *Website: [Vertical Innovations LTD.](https://www.vertical-innovations.com/)* 
+  - [Visit BRAC University](https://www.bracu.ac.bd/)
 
 ---
+
+## Professional Experience
+
+### Embedded Systems Engineer
+- **Vertical Innovations LTD.**, Dhaka, Bangladesh
+- **Role Summary**: Spearheaded the development and implementation of advanced hardware solutions, including IoT-enabled systems and automated devices.
+- **Achievements**:
+  - Designed and deployed a **Smart Sanitary Napkin Vending Machine**, enhancing accessibility in remote regions.
+  - Developed a **Smart Greenhouse** project, integrating IoT and automation for indoor plant cultivation.
+
+[Explore Vertical Innovations LTD.](https://www.vertical-innovations.com/)
+
+---
+
+## Projects
+Here are a few notable projects that showcase my skills in embedded systems and IoT:
+
+1. **Smart Sanitary Napkin Vending Machine**
+   - **Objective**: To create a reliable, IoT-enabled device for public health.
+   - **Key Contributions**: GSM integration, OTA updates, RFID, enhanced PCB design.
+
+2. **Smart Greenhouse**
+   - **Objective**: To provide a sustainable indoor plant growth system.
+   - **Key Contributions**: Automated watering, IoT monitoring, custom enclosure.
+
+---
+
+## Contact
+Feel free to reach out to discuss potential collaborations or opportunities:
+
+- **GitHub**: [A5hfak](https://github.com/A5hfak)
+- **Email**: [ashfaknehal@gmail.com](mailto:ashfaknehal@gmail.com)
+- **LinkedIn**: [ashfak-haider](https://linkedin.com/in/ashfak-haider)
+- **Google Scholar**: [Ashfak Haider](https://scholar.google.com/citations?user=bNnxTZMAAAAJ&hl=en)
+
+---
+
+> *"Passionate about innovation and committed to driving meaningful changes through technology."*
