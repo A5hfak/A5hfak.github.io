@@ -474,43 +474,6 @@ page_data:
         The Sanitary Napkin Incinerator project demonstrates skills in heat system design, thermal insulation for efficiency and safety, and 3D modeling for practical enclosure design. This project was a significant step toward offering sustainable hygiene solutions and highlights expertise in creating safe, user-friendly, and environmentally responsible hardware.
 
         ---
-
-    # Snacks Vending Machine
-    - type: id_professional
-      project_name: "Snacks Vending Machine"
-      project_excerpt: "Device Enclosure Design, IoT Integration, PCB Development, Automation"
-      img: ":p7_svm_ai.jpg"
-      img_title: "Snacks Vending Machine"
-      date: "2024-03-02"
-      post: |
-
-        The **Snacks Vending Machine** project was a commercial endeavor to create a reliable, tech-enabled vending machine designed to dispense snacks and small consumables efficiently. This project required comprehensive device design, integrating several advanced features to meet the needs of high-traffic locations. While specific design details remain confidential, this project highlights key competencies in automation and hardware integration for consumer products.
-        
-        ***
-
-        ### Overview
-        
-        The machine provides easy access to snacks, equipped with cutting-edge features such as real-time inventory tracking, cashless payments, and remote monitoring. It was designed for seamless operation in public locations, focusing on durability, ease of use, and secure payment options
-
-        ### Project Highlights
-
-          - **IoT and Connectivity**: Implemented real-time monitoring with an IoT connection, allowing for live inventory checks and machine status updates via WiFi and GSM for 24/7 operation.
-          - **Multiple Payment Options**: Enabled secure payments through bill collector, QR code, and other cashless methods, making transactions convenient and fast.
-          - **GUI Touchscreen Interface**: Designed an intuitive touchscreen GUI for user interaction, enabling easy snack selection and providing visual cues for payment and product availability.
-          - **Device Enclosure**: Created a commercial-grade, secure enclosure optimized for accessibility and aesthetic appeal, housing all machine components and snack inventory.
-          - **PCB Development**: Developed a custom PCB tailored for automation control, with robust components to support the vending, communication, and security functions reliably.
-
-        ### PCB Design
-
-          - Below is an image of the custom PCB designed for the Snacks Vending Machine, demonstrating the complexity and integration of various system requirements.
-          
-        ![PCB Design for Snacks Vending Machine](:p7_svm_pcb.jpg){:data-align="center"}      
-        
-        ## Conclusion
-
-        The Snacks Vending Machine project exemplifies skills in commercial hardware design, IoT integration, and automation for high-demand consumer environments. This experience reinforced my understanding of reliability and user-centered design for automated, tech-enabled vending solutions.
-
-        ---
         
     # Automatic Indoor Safety Control
     - type: id_academic
