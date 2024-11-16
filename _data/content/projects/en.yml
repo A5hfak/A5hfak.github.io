@@ -548,12 +548,20 @@ page_data:
         - **Wearable Device**: Designed a 3D enclosure for the wearable social-distancing monitoring device, ensuring comfort and functionality. Below are renderings showing multiple views of the watch:
 
           ![3D Rendered Watch Design (Multiple Views)](:p9_Watch3D.jpg){:data-align="center"}
-        
-        ![Workflow Diagram](:p9_WorkFlow.jpg){:data-align="center"}
-        ![System in Working Situations](:p9_SystemWorkflow.jpg){:data-align="center"}
-        ![Distance Measurement Mechanism](:p9_DistanceMeasurement.jpg){:data-align="center"}
-        ![3D Design of Social Distance Watch (Outside & Inside)](:p9_WatchView.jpg){:data-align="center"}
 
+        1. **Workflow Diagram**
+        ![Workflow Diagram](:p9_WorkFlow.jpg){:data-align="center"}
+           - This diagram illustrates the overall workflow of the COVID-19 safety monitoring system, showing each stage from initial temperature screening to mask detection and social distancing alerts.
+        2. **System in Working Situations**
+        ![System in Working Situations](:p9_SystemWorkflow.jpg){:data-align="center"}
+           - The system in action across multiple steps, demonstrating how each feature—from temperature check to distance monitoring—functions in real-world scenarios.        
+        3. **Distance Measurement Mechanism**
+        ![Distance Measurement Mechanism](:p9_DistanceMeasurement.jpg){:data-align="center"}
+           - Visual representation of how the system enforces social distancing. This image shows how the system monitors proximity between users and activates alerts if safe distance protocols are breached.        
+        4. **3D Design of Social Distance Watch (Outside & Inside)**
+        ![3D Design of Social Distance Watch (Outside & Inside)](:p9_WatchView.jpg){:data-align="center"}
+           - A detailed view of the custom-designed social distancing watch, displaying both the exterior and interior components. The watch houses sensors, alerts, and power management systems to ensure real-time distance tracking.  
+        
         ## Conference Paper
 
         This project was also published in a conference paper. You can find the published paper for further technical insights here:
