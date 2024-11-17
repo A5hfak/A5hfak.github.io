@@ -38,7 +38,7 @@ Google
 ## Credential Details:
 - **Issue Date:** February 2024
 - **Credential ID:** DZWNQBRZJQVV
-- **Credential URL:** [https://www.coursera.org/account/accomplishments/records/DZWNQBRZJQVV](https://www.coursera.org/account/accomplishments/records/DZWNQBRZJQVV)
+- **Credential URL:** [View Certificate](https://www.coursera.org/account/accomplishments/records/DZWNQBRZJQVV)
 
 ## Keywords:
 **Skills:**
