@@ -42,7 +42,11 @@ Google
 
 ## Keywords:
 **Skills:**
-- Information Security (INFOSEC), NIST Risk Management Framework (RMF), Security Audits, NIST Cybersecurity Framework (CSF), Incident Response Playbooks
+- Information Security (INFOSEC)
+- NIST Risk Management Framework (RMF)
+- Security Audits
+- NIST Cybersecurity Framework (CSF)
+- Incident Response Playbooks
 
 **Platform:**
 - Coursera, Online Learning
