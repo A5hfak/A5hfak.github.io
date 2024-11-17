@@ -1,9 +1,9 @@
 ---
 # multilingual page pair id, this must pair with translations of this page. (This name must be unique)
-lng_pair: Certificate_03
+lng_pair: Publication_03
 title: Play It Safe: Manage Security Risks
 
-post specific: Certificate_03
+post specific: Publication_03
 # if not specified, .name will be used from _data/owner/[language].yml
 author: ""
 # multiple category is not supported
