@@ -27,10 +27,21 @@ My goal is to leverage my skills to contribute to projects that advance embedded
 ---
 
 ## Skills
-- **Hardware Design & Development**: PCB design, prototyping, component selection
-- **Embedded Programming**: C/C++, Python, Microcontroller (ESP8266, STM32)
+- **IDEs**: VSCode, Arduino IDE, ESP-IDF, PlatformIO
+- **PCB Design**: EasyEDA, Altium Designer
+- **Simulation & Modeling**: MATLAB, Proteus, Quartus, Simulink
+- **3D Modeling**: AutoCAD, Blender
+- **Programming Languages**: C++, Python, Rust
+- **Development Environments**: RTOS, Git, Linux OS, VMware
+- **Microcontrollers & Platforms**: Arduino, ESP32, Raspberry Pi, Pynq, AVR
 - **IoT Solutions**: Device integration, wireless communication, cloud connectivity
-- **Tools & Technologies**: Altium, KiCad, Git, Linux, Jupyter Notebook
+- **Graphic & UI/UX Design**: Figma, Adobe Illustrator, Adobe Photoshop, Adobe Suite (Few)
+- **Web Development**: Frontend & Backend Development (Basic Knowledge)
+- **Productivity Suite**: Microsoft Office Suite
+- **Testing & Debugging**: Oscilloscopes, Multimeters, Signal Generators
+- **HW Design**: Schematic, PCBA, Circuit Prototyping
+- **Networking**: MODBUS, TCP/IP, Ethernet, MQTT
+- **Tools & Technologies**: Git, Linux, Jupyter Notebook
 
 ## Education
 - **MSc (Technology) in Embedded Systems**
@@ -56,15 +67,16 @@ My goal is to leverage my skills to contribute to projects that advance embedded
   - Directed a six-member team, managing end-to-end deployment and ensuring device functionality under various conditions.
   - Conducted extensive prototype testing and validation to ensure compliance with industry standards.
 
-[Explore Vertical Innovations LTD.](https://www.vertical-innovations.com/)
+- **[Explore Vertical Innovations LTD.](https://www.vertical-innovations.com/)**
 
 ---
 
-## Contact
+## Contact Information
 Feel free to reach out to discuss potential collaborations or opportunities:
 
 - **GitHub**: [A5hfak](https://github.com/A5hfak)
-- **Email**: [ashfaknehal@gmail.com](mailto:ashfaknehal@gmail.com)
+- **General Email**: [ashfaknehal@gmail.com](mailto:ashfaknehal@gmail.com)
+- **Professional Inquiries**: [ashfak.suomi@gmail.com](mailto:ashfak.suomi@gmail.com)
 - **LinkedIn**: [ashfak-haider](https://linkedin.com/in/ashfak-haider)
 - **ORCiD**: [Ashfak Haider](https://orcid.org/0009-0009-9098-2039)
 
