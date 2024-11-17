@@ -49,33 +49,33 @@ University of California, Irvine
 ## Course Certificates:
 ### 1. **Interfacing with the Arduino**
    - **Issuing Organization:** University of California, Irvine
-   - **Credential ID:** NEDSE5UANB22
-   [View Certificate](/assets/img/posts/Coursera_NAREZMABMEXB.jpg)
+   - **Credential ID:** NAREZMABMEXB
+![Specialization Certificate](/assets/img/posts/Coursera_NAREZMABMEXB.jpg)
 
 ### 2. **Programming for the Internet of Things Project**
    - **Issuing Organization:** University of California, Irvine
-   - **Credential ID:** NEDSE5UANB22
-   [View Certificate](/assets/img/posts/Coursera_CGKV3NKJCKKY.jpg)
+   - **Credential ID:** CGKV3NKJCKKY
+![Specialization Certificate](/assets/img/posts/Coursera_CGKV3NKJCKKY.jpg)
 
 ### 3. **Interfacing with the Raspberry Pi**
    - **Issuing Organization:** University of California, Irvine
-   - **Credential ID:** NEDSE5UANB22
-   - [View Certificate](/assets/img/posts/Coursera_F6756DZXPA4D.jpg)
+   - **Credential ID:** F6756DZXPA4D
+![Specialization Certificate](/assets/img/posts/Coursera_F6756DZXPA4D.jpg)
 
 ### 4. **The Arduino Platform and C Programming**
    - **Issuing Organization:** University of California, Irvine
-   - **Credential ID:** NEDSE5UANB22
-   - [View Certificate](/assets/img/posts/Coursera_MEJHKAC9QX2Z.jpg)
+   - **Credential ID:** MEJHKAC9QX2Z
+![Specialization Certificate](/assets/img/posts/Coursera_MEJHKAC9QX2Z.jpg)
 
 ### 5. **Introduction to the Internet of Things and Embedded Systems**
    - **Issuing Organization:** University of California, Irvine
-   - **Credential ID:** NEDSE5UANB22
-   - [View Certificate](/assets/img/posts/Coursera_MSWE685U3BJ5.jpg)
+   - **Credential ID:** MSWE685U3BJ5
+![Specialization Certificate](/assets/img/posts/Coursera_MSWE685U3BJ5.jpg)
 
 ### 6. **The Raspberry Pi Platform and Python Programming for the Raspberry Pi**
    - **Issuing Organization:** University of California, Irvine
-   - **Credential ID:** NEDSE5UANB22
-   - [View Certificate](/assets/img/posts/Coursera_GKCR3CYK2K98.jpg)
+   - **Credential ID:** GKCR3CYK2K98
+![Specialization Certificate](/assets/img/posts/Coursera_GKCR3CYK2K98.jpg)
 
 ---
 
