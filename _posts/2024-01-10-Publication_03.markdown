@@ -1,4 +1,3 @@
-
 ---
 # multilingual page pair id, this must pair with translations of this page. (This name must be unique)
 lng_pair: "Publication_02"
@@ -39,7 +38,7 @@ Google
 ## Credential Details:
 - **Issue Date:** January 2024
 - **Credential ID:** JYU6H6C2QB28
-- **Credential URL:** [https://www.coursera.org/account/accomplishments/records/JYU6H6C2QB28](https://www.coursera.org/account/accomplishments/records/JYU6H6C2QB28)
+- **Credential URL:** [View Certificate](https://www.coursera.org/account/accomplishments/records/JYU6H6C2QB28)
 
 ## Keywords:
 **Skills:**
@@ -50,11 +49,10 @@ Google
 
 ---
 
-## Certificate
+## Certificate Image
 ![Certificate](/assets/img/posts/Coursera_JYU6H6C2QB28.jpg)
 
 ---
 
-© Copyright 2023 IEEE - All rights reserved. 
+© Copyright 2023 IEEE - All rights reserved.  
 Personal use of this material is permitted. 
-
