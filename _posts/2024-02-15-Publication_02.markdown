@@ -49,5 +49,10 @@ Google
 
 ---
 
+## Certificate
+![Certificate](/assets/img/posts/Coursera_DZWNQBRZJQVV.jpg)
+
+---
+
 © Copyright 2023 IEEE - All rights reserved. 
 Personal use of this material is permitted. 
