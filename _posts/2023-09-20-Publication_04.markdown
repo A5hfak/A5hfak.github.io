@@ -38,11 +38,14 @@ University of California, Irvine
 ## Credential Details:
 - **Issue Date:** September 2023
 - **Credential ID:** NEDSE5UANB22
-[Specialization Certificate](/assets/img/posts/Coursera_NEDSE5UANB22.jpg)
+- [Specialization Certificate](/assets/img/posts/Coursera_NEDSE5UANB22.jpg)
 
 ## Keywords:
 **Skills:**
-- Arduino, Python Programming, Internet of Things (IOT), Raspberry Pi
+- Arduino
+- Python Programming
+- Internet of Things (IOT)
+- Raspberry Pi
 
 ---
 
@@ -52,25 +55,30 @@ University of California, Irvine
    - **Credential ID:** NAREZMABMEXB
 ![Specialization Certificate](/assets/img/posts/Coursera_NAREZMABMEXB.jpg)
 
+
 ### 2. **Programming for the Internet of Things Project**
    - **Issuing Organization:** University of California, Irvine
    - **Credential ID:** CGKV3NKJCKKY
 ![Specialization Certificate](/assets/img/posts/Coursera_CGKV3NKJCKKY.jpg)
+
 
 ### 3. **Interfacing with the Raspberry Pi**
    - **Issuing Organization:** University of California, Irvine
    - **Credential ID:** F6756DZXPA4D
 ![Specialization Certificate](/assets/img/posts/Coursera_F6756DZXPA4D.jpg)
 
+
 ### 4. **The Arduino Platform and C Programming**
    - **Issuing Organization:** University of California, Irvine
    - **Credential ID:** MEJHKAC9QX2Z
 ![Specialization Certificate](/assets/img/posts/Coursera_MEJHKAC9QX2Z.jpg)
 
+
 ### 5. **Introduction to the Internet of Things and Embedded Systems**
    - **Issuing Organization:** University of California, Irvine
    - **Credential ID:** MSWE685U3BJ5
 ![Specialization Certificate](/assets/img/posts/Coursera_MSWE685U3BJ5.jpg)
+
 
 ### 6. **The Raspberry Pi Platform and Python Programming for the Raspberry Pi**
    - **Issuing Organization:** University of California, Irvine
