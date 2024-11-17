@@ -1,0 +1,35 @@
+---
+lng_pair: Certificate_03
+title: Play It Safe: Manage Security Risks
+
+post specific: Certificate_03
+category: Certificate
+tags: [Coursera, Online Learning]
+
+img: "/assets/img/certificates/Coursera_DZWNQBRZJQVV.jpg"
+
+comments_disable: true
+
+date: 2024-02-15
+
+---
+
+# Play It Safe: Manage Security Risks
+
+## Issuing Organization:
+Google
+
+## Credential Details:
+- **Issue Date:** February 2024
+- **Credential ID:** DZWNQBRZJQVV
+- **Credential URL:** [https://www.coursera.org/account/accomplishments/records/DZWNQBRZJQVV](https://www.coursera.org/account/accomplishments/records/DZWNQBRZJQVV)
+
+## Keywords:
+
+**Skills:**
+- Information Security (INFOSEC), NIST Risk Management Framework (RMF), Security Audits, NIST Cybersecurity Framework (CSF), Incident Response Playbooks
+
+**Platform:**
+- Coursera, Online Learning
+
+---
