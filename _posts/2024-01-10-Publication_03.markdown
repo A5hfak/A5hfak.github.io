@@ -42,7 +42,11 @@ Google
 
 ## Keywords:
 **Skills:**
-- Cybersecurity, Information Security (INFOSEC), Ethics in cybersecurity, NIST Cybersecurity Framework (CSF), Historical Attacks
+- Cybersecurity
+- Information Security (INFOSEC)
+- Ethics in cybersecurity
+- NIST Cybersecurity Framework (CSF)
+- Historical Attacks
 
 **Platform:**
 - Coursera, Online Learning
