@@ -106,8 +106,8 @@ post:
 
 # for post-list layout
 post-list:
-  title: Publications
-  button_name: Publications
+  title: Achievements
+  button_name: Achievements
 
 # for home layout
 home:
