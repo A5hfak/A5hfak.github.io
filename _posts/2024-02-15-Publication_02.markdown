@@ -3,10 +3,11 @@ lng_pair: Certificate_03
 title: Play It Safe: Manage Security Risks
 
 post specific: Certificate_03
+author: "Md Ashfak Haider Nehal"
 category: Certificate
 tags: [Coursera, Online Learning]
 
-img: "/assets/img/certificates/Coursera_DZWNQBRZJQVV.jpg"
+img: "/assets/img/posts/Coursera_DZWNQBRZJQVV.jpg"
 
 comments_disable: true
 
