@@ -67,7 +67,7 @@ The COVID-19 pandemic has affected a variety of aspects of our everyday life. Mo
 **Author Keywords**
 - COVID-19, social distancing, wearable, indoor safety, wireless technology, RSSI, Arduino, temperature sensor, mask detection, machine learning
 
-## Total Full-Text view: 34
+## Total Full-Text view: 52
 
 ---
 
@@ -79,6 +79,9 @@ Affiliation: BRAC University
 
 **DOI Link:**
 [DOI: 10.1109/ICRAE56463.2022.10056201](https://doi.org/10.1109/ICRAE56463.2022.10056201)
+
+## Award:
+![Paper View](/assets/img/posts/conf_paper.jpg)
 
 **Publisher:**
 IEEE
