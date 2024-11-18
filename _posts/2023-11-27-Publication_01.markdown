@@ -80,7 +80,7 @@ Affiliation: BRAC University
 **DOI Link:**
 [DOI: 10.1109/ICRAE56463.2022.10056201](https://doi.org/10.1109/ICRAE56463.2022.10056201)
 
-## Paper View:
+**Paper View:**
 ![Paper View](/assets/img/posts/conf_paper.jpg)
 
 **Publisher:**
