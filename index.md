@@ -14,6 +14,7 @@ meta_description: "Portfolio of an Embedded Systems Engineer skilled in IoT, PCB
 # optional settings
 image_viewer_on: true
 image_lazy_loader_on: true
+
 ---
 
 # Welcome to My Portfolio
