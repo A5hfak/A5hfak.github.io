@@ -36,6 +36,9 @@ BRAC University Electrical and Electronic Club (BUEEC)
 ## Achievement Highlights
 I received the "Best Assistant Director" award from the **BRAC University Electrical and Electronic Club (BUEEC)**, where I served as a dedicated member and leader in two key roles:
 
+## Award:
+![Best Assistant Director Award](/assets/img/posts/bueec_ad.jpg)
+
 - **2020 Panel**: Executive, Logistics Department
 - **2021 Panel**: Assistant Director, Communications Department
 
