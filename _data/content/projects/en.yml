@@ -146,6 +146,65 @@ page_data:
         
         Visit [Vertical Innovations LTD](https://www.vertical-innovations.com/) for more information about our projects and services.
 
+        ---
+
+    # ESP32 C3 PCB
+    - type: id_opsource
+      project_name: "Custom ESP32-C3"
+      project_excerpt: "Custom ESP32-C3 4-Layer PCB with USB-C Connectivity"
+      img: ":p10_thumb.jpg"
+      img_title: "ESP32-C3 4-Layer PCB Design"
+      date: "2025-1-30"
+      post: |
+
+        The **Custom ESP32-C3 4-Layer PCB Design** project was aimed at creating a compact and efficient ESP32 with the latest c3 chip. This design includes a 4-layer PCB with the ESP32-C3 microcontroller and USB-C connectivity, optimized for high-speed data transfer and reliable power delivery.
+        
+        ***
+
+        ### Overview and Key Features
+
+          - **Microcontroller**: The ESP32-C3, known for its low-power consumption and built-in Wi-Fi and Bluetooth capabilities, forms the system's core.
+          - **4-Layer PCB**: A professionally designed 4-layer PCB, including:
+            - **Top Layer**: Signal routing and components.
+            - **Inner Layers**: Dedicated power and ground planes to reduce noise and improve signal integrity.
+            - **Bottom Layer**: Additional signal routing.
+          - **USB-C Connectivity**: Provides a modern interface for power delivery and serial communication, improving ease of use.
+          - **Onboard Peripherals**: Features a built-in reset button, boot button, and necessary pull-up/pull-down resistors for ESP32-C3 functionality.
+          - **Compact Form Factor**: Designed for portability and optimized layout for minimal interference.
+
+        ### Project Highlights
+
+          - **PCB Design in Altium Designer**:
+            - The schematic and layout were created using Altium Designer, focusing on compactness and ease of assembly.
+            - Proper RF design practices were followed to ensure robust Wi-Fi/Bluetooth communication.
+          - **USB-C Interface Implementation**:
+            - Includes a USB-C connector configured for both power delivery and UART communication.
+            - ESD protection and current-limiting circuits ensure durability and safety.
+          
+        ### System Design
+
+        1. **Schematic and**
+        ![Schematic](:p10_sch.jpg){:data-align="center"}
+           - Displays the detailed schematic.
+        2. **PCB Layout**
+        ![PCB Layout](:p10_pcblayout.jpg){:data-align="center"}
+           - Displays the final PCB layout, including precise routing for power and signal lines.        
+        3. **Layer Stack-Up**
+        ![Top Layer](:p10_L1.jpg){:data-align="center"}
+           - The **Top Layer** contains the primary signal traces, components, and routing for critical connections.        
+        ![Inner Layer 1](:p10_L2.jpg){:data-align="center"}
+           - **Inner Layer 1** serves as the dedicated power plane, ensuring stable voltage distribution across the board.    
+        ![Inner Layer 2](:p10_L3.jpg){:data-align="center"}
+           - **Inner Layer 2** acts as the ground plane, reducing noise and providing a return path for signals.   
+        ![Bottom Layer](:p10_L4.jpg){:data-align="center"}
+           - The **Bottom Layer** includes additional signal routing and support components for the design.    
+        4. **Completed PCB**
+        ![3D View 1](:p10_3D1.jpg){:data-align="center"}
+        ![3D View 2](:p10_3D2.jpg){:data-align="center"}
+        ![3D View 3](:p10_3D3.jpg){:data-align="center"}
+
+        ---
+
     # AquaMeasure
     - type: id_professional
       project_name: "Remote Monitoring System for Water Plant"
@@ -533,62 +592,5 @@ page_data:
         ## Conclusion
 
         This project allowed for hands-on experience in integrating sensors, IoT, and machine learning into a practical solution. It underscores skills in system automation, hardware design, and user safety, and it has provided valuable insights into real-time monitoring and feedback systems.
-
-        ---
-
-    # ESP32 C3 PCB
-    - type: id_opsource
-      project_name: "Custom ESP32-C3"
-      project_excerpt: "Custom ESP32-C3 4-Layer PCB with USB-C Connectivity"
-      img: ":p10_thumb.jpg"
-      img_title: "ESP32-C3 4-Layer PCB Design"
-      date: "2025-1-30"
-      post: |
-
-        The **Custom ESP32-C3 4-Layer PCB Design** project was aimed at creating a compact and efficient ESP32 with the latest c3 chip. This design includes a 4-layer PCB with the ESP32-C3 microcontroller and USB-C connectivity, optimized for high-speed data transfer and reliable power delivery.
-        
-        ***
-
-        ### Overview and Key Features
-
-          - **Microcontroller**: The ESP32-C3, known for its low-power consumption and built-in Wi-Fi and Bluetooth capabilities, forms the system's core.
-          - **4-Layer PCB**: A professionally designed 4-layer PCB, including:
-            - **Top Layer**: Signal routing and components.
-            - **Inner Layers**: Dedicated power and ground planes to reduce noise and improve signal integrity.
-            - **Bottom Layer**: Additional signal routing.
-          - **USB-C Connectivity**: Provides a modern interface for power delivery and serial communication, improving ease of use.
-          - **Onboard Peripherals**: Features a built-in reset button, boot button, and necessary pull-up/pull-down resistors for ESP32-C3 functionality.
-          - **Compact Form Factor**: Designed for portability and optimized layout for minimal interference.
-
-        ### Project Highlights
-
-          - **PCB Design in Altium Designer**:
-            - The schematic and layout were created using Altium Designer, focusing on compactness and ease of assembly.
-            - Proper RF design practices were followed to ensure robust Wi-Fi/Bluetooth communication.
-          - **USB-C Interface Implementation**:
-            - Includes a USB-C connector configured for both power delivery and UART communication.
-            - ESD protection and current-limiting circuits ensure durability and safety.
-          
-        ### System Design
-
-        1. **Schematic and**
-        ![Schematic](:p10_sch.jpg){:data-align="center"}
-           - Displays the detailed schematic.
-        2. **PCB Layout**
-        ![PCB Layout](:p10_pcblayout.jpg){:data-align="center"}
-           - Displays the final PCB layout, including precise routing for power and signal lines.        
-        3. **Layer Stack-Up**
-        ![Top Layer](:p10_L1.jpg){:data-align="center"}
-           - The **Top Layer** contains the primary signal traces, components, and routing for critical connections.        
-        ![Inner Layer 1](:p10_L2.jpg){:data-align="center"}
-           - **Inner Layer 1** serves as the dedicated power plane, ensuring stable voltage distribution across the board.    
-        ![Inner Layer 2](:p10_L3.jpg){:data-align="center"}
-           - **Inner Layer 2** acts as the ground plane, reducing noise and providing a return path for signals.   
-        ![Bottom Layer](:p10_L4.jpg){:data-align="center"}
-           - The **Bottom Layer** includes additional signal routing and support components for the design.    
-        4. **Completed PCB**
-        ![3D View 1](:p10_3D1.jpg){:data-align="center"}
-        ![3D View 2](:p10_3D2.jpg){:data-align="center"}
-        ![3D View 3](:p10_3D3.jpg){:data-align="center"}
 
         ---
