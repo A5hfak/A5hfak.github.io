@@ -599,7 +599,7 @@ page_data:
     - type: id_academic
       project_name: "Smart Hospital Bed & Multi-Parameter Monitor"
       project_excerpt: "An IoT & AI-based smart hospital bed that monitors patient vitals, environment, and posture with real-time alerts and a live dashboard."
-      img: ":p10_SmartBedThumb.jpg"
+      img: ":p11_SmartBedThumb.jpg"
       img_title: "Smart Hospital Bed System"
       date: "2025-04-15"
       post: |
@@ -630,15 +630,15 @@ page_data:
         - **Node-RED UI**: Subscribes to MQTT topics and renders real-time updates.
         - **AI Model**: A separate Python process evaluates heart rate and triggers risk alerts.
 
-          ![Smart Hospital Bed Dashboard - Node-RED UI](:p10_SmartBedDashboard.jpg){:data-align="center"}
+          ![Smart Hospital Bed Dashboard - Node-RED UI](:p11_SmartBedDashboard.jpg){:data-align="center"}
           
         ### Design Diagrams and Features
 
         1. **Hardware Setup**
-        ![Smart Bed Hardware Layout](:p10_HardwareSetup.jpg){:data-align="center"}
+        ![Smart Bed Hardware Layout](:p11_HardwareSetup.jpg){:data-align="center"}
 
         2. **Sensor Data Flow**
-        ![Sensor to MQTT Flow](:p10_DataFlow.jpg){:data-align="center"}
+        ![Sensor to MQTT Flow](:p11_DataFlow.jpg){:data-align="center"}
 
         ## Reflection and Challenges
 
