@@ -595,75 +595,73 @@ page_data:
 
         ---
         
-    # Smart IoT based bed monitor
-    - type: id_academic
-      project_name: "Smart Hospital Bed & Multi-Parameter Monitor"
-      project_excerpt: "An IoT & AI-based smart hospital bed that monitors patient vitals, environment, and posture with real-time alerts and a live dashboard."
-      img: ":p11_SmartBedThumb.jpg"
-      img_title: "Smart Hospital Bed System"
-      date: "2025-04-15"
-      post: |
-
-        The **Smart Hospital Bed with Multi-Parameter Patient Monitoring** system is an end-to-end IoT solution that integrates physiological sensing, environmental monitoring, and AI-based health risk prediction into a single platform. Built using Arduino, Raspberry Pi, and Node-RED, the system provides real-time alerts and data visualization for critical care support.
-        
-        ### Overview and Working Principle
-        
-        Our system monitors key indicators through sensors such as heart rate, EMG, IMU, PIR, and environmental modules. The data is parsed and transmitted using MQTT to a custom dashboard built on Node-RED, while an AI model on the Raspberry Pi predicts heart attack risk using live heart rate data.
-        
-        - **Patient Monitoring**: Tracks heart rate, muscle activity (EMG), motion, orientation (IMU), and vibration.
-        - **Environmental Sensing**: Includes temperature, humidity, ambient light, sound levels, and pressure monitoring.
-        - **AI Health Risk Detection**: Predicts potential heart attack risk from real-time heart rate patterns using a custom-trained machine learning model.
-        
-        ### Project Highlights
-
-        - **Sensor Fusion**: Combines data from multiple boards (Arduino Uno & Nano 33 BLE Sense).
-        - **Smart Alerts**: Uses haptic feedback and LEDs for signaling abnormal or critical health events.
-        - **Actuation**: A servo motor simulates bed tilt adjustment in response to dangerous posture.
-        - **Node-RED Dashboard**: Visualizes real-time data through charts, gauges, and controls; parses 3D axis IMU data using custom function nodesk.
-        - **AI Integration**: A Python-based risk model on the Raspberry Pi classifies heart attack risk from streaming heart rate data.
-        
-        ### System Design
-
-        The system follows a modular architecture:
-        - **Serial Communication**: Arduinos send sensor data in JSON to the Pi.
-        - **MQTT Protocol**: The Pi parses and publishes this data to MQTT topics securely.
-        - **Node-RED UI**: Subscribes to MQTT topics and renders real-time updates.
-        - **AI Model**: A separate Python process evaluates heart rate and triggers risk alerts.
-
-          ![Smart Hospital Bed Dashboard - Node-RED UI](:p11_SmartBedDashboard.jpg){:data-align="center"}
-          
-        ### Design Diagrams and Features
-
-        1. **Hardware Setup**
-        ![Smart Bed Hardware Layout](:p11_HardwareSetup.jpg){:data-align="center"}
-
-        2. **Sensor Data Flow**
-        ![Sensor to MQTT Flow](:p11_DataFlow.jpg){:data-align="center"}
-
-        ## Reflection and Challenges
-
-        - EMG baseline drift and sensor noise required filtering and averaging.
-        - Real-time processing demanded optimization on the Raspberry Pi.
-        - Switched from wireless to USB for more reliable data transfer during prototyping.
-
-        ## Achievements
-
-        - Fully functional prototype with IoT, AI, and hardware integration.
-        - Demonstrated real-time health monitoring with feedback loop.
-        - Strong groundwork for further development into a commercial medical device.
-                  
-        ## Conclusion
-
-        This project highlights a deep integration of embedded systems, IoT, and AI. It showcases end-to-end system design from sensing to actionable insight. It also reflects our ability to build healthcare-focused smart solutions in resource-constrained environments.
-
-        ---
-        
     # Smartwatch
     - type: id_personal
       project_name: "Custom Smartwatch Build"
       project_excerpt: "A fully custom, compact smartwatch with Bluetooth, RTC, OLED, and a Li-Po-powered smart charging circuit."
       img: ":p_12smartwatch_thumbnail.jpg"
       img_title: "Custom Smartwatch Project"
+      date: "2024-07-14"
+      post: |
+
+        The **COVID-19 Safety Monitoring System** project was developed as an automated solution for enforcing key COVID-19 precautions: mask-wearing, temperature checks, and social distancing. This system leverages sensors, automation, and IoT for efficient monitoring and user guidance, with a clear focus on accuracy and safety in high-traffic environments such as institutions and public spaces.
+        
+        ### Overview and Working Principle
+        
+        Our system is designed to ensure safety compliance through an integrated series of checks:
+        - **Temperature Check**: Uses the MLX90614 infrared temperature sensor to assess body temperature without physical contact.
+        - **Mask Detection**: Utilizes an ESP32-CAM and machine learning model trained on mask and no-mask images to accurately detect mask usage.
+        - **Social Distance Monitoring**: Through ESP8266 modules, this subsystem alerts individuals with a buzzer and LED if they come too close to one another indoors.
+
+        Each module functions sequentially, with feedback provided to individuals on an LCD display. Upon successful checks, individuals can proceed, while any non-compliance leads to prompt instructions to ensure safety.
+        
+        ### Project Highlights
+
+        - **Temperature Screening**: The MLX90614 sensor captures non-contact temperature readings and outputs results on an LCD via Arduino NANO. If temperature readings exceed 100°F, an alert instructs the individual to exit.
+        - **Mask Detection**: A model trained on "Teachable Machine" detects mask usage via the ESP32-CAM. Distance is measured with an ultrasonic sensor to ensure optimal positioning, providing an accuracy percentage and final confirmation of mask compliance. Below is a sample camera view, showing AI detection with and without a mask:
+
+          ![Mask Detection: No Mask (100%) & Mask (99.0%)](:p9_FaceDetection.jpg){:data-align="center"}
+
+        - **Social Distancing**: Individuals are provided with an ESP8266-based device (a wearable) that continuously monitors distance via RSSI values. If proximity drops below 3.3 feet, the wearable device's buzzer and LED activate to signal the need to maintain distance.
+        
+        ### System Design
+
+        The project involved designing both the hardware and software aspects of the system, including:
+        - **Flowchart and Workflow**: A structured workflow and flowchart were developed to cover every scenario, as depicted in the **Workflow Diagram** below.
+        - **Wearable Device**: Designed a 3D enclosure for the wearable social-distancing monitoring device, ensuring comfort and functionality. Below are renderings showing multiple views of the watch:
+
+          ![3D Rendered Watch Design (Multiple Views)](:p9_Watch3D.jpg){:data-align="center"}
+
+        1. **Workflow Diagram**
+        ![Workflow Diagram](:p9_WorkFlow.jpg){:data-align="center"}
+           - This diagram illustrates the overall workflow of the COVID-19 safety monitoring system, showing each stage from initial temperature screening to mask detection and social distancing alerts.
+        2. **System in Working Situations**
+        ![System in Working Situations](:p9_SystemWorkflow.jpg){:data-align="center"}
+           - The system in action across multiple steps, demonstrating how each feature—from temperature check to distance monitoring—functions in real-world scenarios.        
+        3. **Distance Measurement Mechanism**
+        ![Distance Measurement Mechanism](:p9_DistanceMeasurement.jpg){:data-align="center"}
+           - Visual representation of how the system enforces social distancing. This image shows how the system monitors proximity between users and activates alerts if safe distance protocols are breached.        
+        4. **3D Design of Social Distance Watch (Outside & Inside)**
+        ![3D Design of Social Distance Watch (Outside & Inside)](:p9_WatchView.jpg){:data-align="center"}
+           - A detailed view of the custom-designed social distancing watch, displaying both the exterior and interior components. The watch houses sensors, alerts, and power management systems to ensure real-time distance tracking.  
+        
+        ## Conference Paper
+
+        This project was also published in a conference paper. You can find the published paper for further technical insights here:
+        [COVID-19 Safety Monitoring System Conference Paper](https://doi.org/10.1109/ICRAE56463.2022.10056201)
+                  
+        ## Conclusion
+
+        This project allowed for hands-on experience in integrating sensors, IoT, and machine learning into a practical solution. It underscores skills in system automation, hardware design, and user safety, and it has provided valuable insights into real-time monitoring and feedback systems.
+
+        ---
+        
+    # Smart IoT based bed monitor
+    - type: id_academic
+      project_name: "Smart Hospital Bed & Multi-Parameter Monitor"
+      project_excerpt: "An IoT & AI-based smart hospital bed that monitors patient vitals, environment, and posture with real-time alerts and a live dashboard."
+      img: ":p11_SmartBedThumb.jpg"
+      img_title: "Smart Hospital Bed System"
       date: "2025-04-15"
       post: |
 
