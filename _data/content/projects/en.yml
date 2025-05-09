@@ -657,3 +657,84 @@ page_data:
         This project highlights a deep integration of embedded systems, IoT, and AI. It showcases end-to-end system design from sensing to actionable insight. It also reflects our ability to build healthcare-focused smart solutions in resource-constrained environments.
 
         ---
+
+    # Smartwatch
+    - type: id_opsource
+      project_name: "Custom Smartwatch Build"
+      project_excerpt: "A fully custom, compact smartwatch with Bluetooth, RTC, OLED, and a Li-Po-powered smart charging circuit."
+      img: ":p_12smartwatch_thumbnail.jpg"
+      img_title: "Custom Smartwatch Project"
+      date: "2024-07-14"
+      post: |
+
+        I designed and built a compact **smartwatch** from the ground up with integrated electronics, display, and power management. The watch runs on a 3.7V Li-Po battery and includes key smart features packed into a custom 2-layer PCB.
+        
+        ### Features
+                
+        - **Bluetooth Communication**: HC-06 module for wireless data exchange.
+        - **Accurate Timekeeping**: DS3231 Real-Time Clock.
+        - **Smart Power Circuit**:
+          - TP4056 charging module
+          - Protection ICs
+        - **Low-Power Design**:
+          - ATMEGA328-MU microcontroller
+          - XC6206 regulator
+        - **User Interaction**:
+          - 128x64 OLED Display
+          - Mini buzzer for alerts
+          - SMD push buttons for input
+
+        ### Engineering Process
+
+        - Designed the schematic and 2-layer PCB using EasyEDA.
+        - 3D printed the casing to perfectly fit the watch form factor.
+        - Included a **mini USB port** for easy charging and **nylon strap** to wear it.
+        
+        ### Gallery
+
+        1. **PCB Layout 1**
+        ![PCB Layout 1](:p12_watch_pcb1.jpg){:data-align="center"}
+
+        2. **PCB Layout 2**
+        ![PCB Layout 2](:p12_watch_pcb2.jpg){:data-align="center"}
+        
+        3. **PCB Layout 3**
+        ![PCB Layout 3](:p12_watch_pcb3.jpg){:data-align="center"}
+                  
+        ## Conclusion
+
+        This project demonstrates my ability to build a consumer-grade electronic device from concept to prototype, combining circuit design, embedded programming, and mechanical integration.
+
+        ---
+
+    # Custom Enclosure for Raspberry PI
+    - type: id_opsource
+      project_name: "Custom Raspberry Pi Enclosure"
+      project_excerpt: "A 3d-printed custom enclosure for Raspberry Pi with improved usability and cooling."
+      img: ":p13_rpi_case2.jpg"
+      img_title: "Custom Raspberry Pi Case"
+      date: "2024-04-27"
+      post: |
+
+        This **Raspberry Pi Enclosure** project is more than just a storage box — it's a custom 3D-printed case designed to enhance both functionality and aesthetics for my Raspberry Pi setup.
+        
+        ### Highlights
+                
+        - **3D-Printed**: Fully modeled and printed for precision fit.
+        - **Improved Cooling**: Designed vents for passive airflow.
+        - **GPIO Access**: Cutouts to access pins and the SD card.
+        - **Compact Design**: Designed to stack neatly in embedded setups.
+
+        ### Gallery
+
+        1. **Assembled Pi in Custom Case**
+        ![Assembled Pi in Custom Case](:p13_rpi_case1.jpg){:data-align="center"}
+
+        2. **3D printed Custom Case**
+        ![3D printed Custom Case](:p13_rpi_case2.jpg){:data-align="center"}
+        
+        ## Conclusion
+
+        The case exemplifies my skills in CAD modeling, 3D printing and enclosure prototyping for embedded systems.
+
+        ---
