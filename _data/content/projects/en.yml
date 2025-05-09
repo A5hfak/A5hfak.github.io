@@ -657,7 +657,7 @@ page_data:
         This project highlights a deep integration of embedded systems, IoT, and AI. It showcases end-to-end system design from sensing to actionable insight. It also reflects our ability to build healthcare-focused smart solutions in resource-constrained environments.
 
         ---
-        
+
     # Smartwatch
     - type: id_personal
       project_name: "Custom Smartwatch Build"
@@ -706,11 +706,11 @@ page_data:
         This project demonstrates my ability to build a consumer-grade electronic device from concept to prototype, combining circuit design, embedded programming, and mechanical integration.
 
         ---
-        
+
     # Custom Enclosure for Raspberry PI
     - type: id_personal
       project_name: "Custom Raspberry Pi Enclosure"
-      project_excerpt: "A 3D-printed custom enclosure for Raspberry Pi with improved usability and cooling."
+      project_excerpt: "A 3d-printed custom enclosure for Raspberry Pi with improved usability and cooling."
       img: ":p13_rpi_case2.jpg"
       img_title: "Custom Raspberry Pi Case"
       date: "2024-04-27"
@@ -722,7 +722,7 @@ page_data:
                 
         - **3D-Printed**: Fully modeled and printed for precision fit.
         - **Improved Cooling**: Designed vents for passive airflow.
-        - **GPIO Access**: Cutouts to access pins and SD card.
+        - **GPIO Access**: Cutouts to access pins and the SD card.
         - **Compact Design**: Designed to stack neatly in embedded setups.
 
         ### Gallery
@@ -733,9 +733,8 @@ page_data:
         2. **3D printed Custom Case**
         ![3D printed Custom Case](:p13_rpi_case2.jpg){:data-align="center"}
         
-                  
         ## Conclusion
 
-        The case exemplifies my skills in CAD modeling, 3D printing, and enclosure prototyping for embedded systems.
+        The case exemplifies my skills in CAD modeling, 3D printing and enclosure prototyping for embedded systems.
 
         ---
