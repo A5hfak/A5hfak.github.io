@@ -738,3 +738,43 @@ page_data:
         The case exemplifies my skills in CAD modeling, 3D printing and enclosure prototyping for embedded systems.
 
         ---
+
+    # Mixed-Signal PCB (Udemy Course)
+    - type: id_opsource
+      project_name: "Mixed-Signal PCB"
+      project_excerpt: "End-to-end mixed-signal PCB from schematic to fabrication files; focused on clean analog/digital partitioning and layout discipline."
+      img: ":3D_front_side.jpg"
+      img_title: "Mixed-Signal PCB — 3D Front"
+      date: "2025-09-12"
+      post: |
+        
+        ### Highlights
+                
+        - **End-to-end flow:** Schematic capture → layout → DRC/3D verification → Gerbers & drill files.
+        - **Mixed-signal discipline:** Thoughtful **analog/digital partitioning**, short return loops, decoupling near IC pins.
+        - **Noise mitigation:** Guard/keep-outs where needed, stitching vias to maintain a solid reference, careful high-dI/dt routing.
+        - **Production mindset:** Footprints with clear silks, test-point access, readable reference designators.
+        - **Learning focus:** Applying layout checks, courtyard/assembly layers, and MCAD previews for fit.
+
+        ### Gallery
+
+        1. **3D — Front Side**
+        ![3D — Front Side](:3D_front_side.jpg){:data-align="center"}
+
+        2. **3D — Back Side**
+        ![3D — Back Side](:3D_back_side.png){:data-align="center"}
+
+        3. **2D — Top Layer View**
+        ![2D — Top Layer View](:2D_top_layer_view.png){:data-align="center"}
+
+        4. **2D — Full Layout View**
+        ![2D — Full Layout View](:2D_layout_view.png){:data-align="center"}
+
+        5. **2D — Bottom Layer View**
+        ![2D — Bottom Layer View](:2D_bottom_layer_view.png){:data-align="center"}
+
+        ## Conclusion
+
+        This build showcases my ability to plan and execute a clean, fabrication-ready **mixed-signal PCB**, balancing analog integrity with digital practicality, and documenting the process with clear visuals.
+
+        ---
